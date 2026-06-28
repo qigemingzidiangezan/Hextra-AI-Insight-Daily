@@ -259,4 +259,90 @@ sidebar:
     )
     print(f"  Created month index")
 
+    print(f"  Created month index")
+
+# Step 8: Update home page _index.md to show latest content
+home_path = "content/cn/_index.md"
+s6, home_resp = fetch_url(
+    f"{GITHUB_API}/contents/{home_path}?ref=main",
+    headers_extra={
+        'Authorization': f'Bearer {GH_TOKEN}',
+        'Accept': 'application/vnd.github.v3+json',
+        'User-Agent': 'AI-Daily-Bot',
+    }
+)
+if s6 == 200 and home_resp:
+    home_data = json.loads(home_resp)
+    home_sha = home_data.get('sha')
+    home_content = base64.b64decode(home_data['content']).decode('utf-8')
+
+    # Update hero badge link
+    new_badge = f'{{{{< hextra/hero-badge link="/{month_dir}/{today}" >}}}}🚀 阅读今日日报{{{{< /hextra/hero-badge >}}}}'
+    home_content = re.sub(
+        r'\{\{< hextra/hero-badge link="/[^"]+" >\}\}🚀 阅读今日日报\{\{< /hextra/hero-badge >\}\}',
+        new_badge,
+        home_content
+    )
+
+    # Update archive link
+    home_content = re.sub(
+        r'\[AI 资讯日报归档\]\(/[^)]+\)',
+        f'[AI 资讯日报归档](/{month_dir}/{today})',
+        home_content
+    )
+
+    # Build new card entry
+    card_subtitle = plain_desc[:120] + '...'
+    new_card = f'{{{{< card link="/{month_dir}/{today}" title="AI资讯日报 {title_date}" subtitle="{card_subtitle}" icon="calendar" >}}}}'
+
+    # Insert new card at the top of LATEST_6_CARDS block
+    start_marker = '<!-- LATEST_6_CARDS_START -->'
+    end_marker = '<!-- LATEST_6_CARDS_END -->'
+    start_pos = home_content.find(start_marker)
+    end_pos = home_content.find(end_marker)
+
+    if start_pos > 0 and end_pos > start_pos:
+        # Remove the last card (keep 6 total)
+        cards_block = home_content[start_pos + len(start_marker):end_pos]
+        lines = cards_block.strip().split('\n')
+        # Find card boundaries - each card is one line
+        card_lines = [l for l in lines if l.strip().startswith('{{< card ')]
+        if len(card_lines) >= 6:
+            # Remove the last card
+            last_card = card_lines[-1]
+            cards_block = cards_block.replace(last_card, '')
+        # Prepend new card
+        new_block = cards_block.replace(
+            card_lines[0] if card_lines else '',
+            new_card + '\n  ' + card_lines[0] if card_lines else new_card
+        )
+        if card_lines:
+            # Actually, simpler approach: add new card at front and keep top 5 old ones
+            all_cards = [new_card] + card_lines[:5]
+            new_block = '\n'.join(all_cards)
+        home_content = home_content[:start_pos + len(start_marker)] + '\n' + new_block + '\n' + home_content[end_pos:]
+
+    # Commit updated _index.md
+    home_commit_payload = {
+        "message": f"Update home page for {today}",
+        "content": base64.b64encode(home_content.encode('utf-8')).decode('ascii'),
+        "branch": "main",
+        "sha": home_sha,
+    }
+    s7, _ = fetch_url(
+        f"{GITHUB_API}/contents/{home_path}",
+        method='PUT',
+        data=json.dumps(home_commit_payload),
+        headers_extra={
+            'Authorization': f'Bearer {GH_TOKEN}',
+            'Accept': 'application/vnd.github.v3+json',
+            'Content-Type': 'application/json',
+            'User-Agent': 'AI-Daily-Bot',
+        }
+    )
+    if s7 in (200, 201):
+        print(f"[OK] Home page updated")
+    else:
+        print(f"[WARN] Home page update failed (HTTP {s7})")
+
 print(f"[DONE] Pipeline complete!")
