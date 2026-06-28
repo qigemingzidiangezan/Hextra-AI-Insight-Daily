@@ -1,0 +1,39 @@
+name: Daily AI News Build
+
+on:
+  schedule:
+    # UTC 0:00 = Beijing 8:00
+    - cron: '0 0 * * *'
+  workflow_dispatch:
+
+jobs:
+  generate-daily:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Generate AI Daily
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          REPO_OWNER: qigemingzidiangezan
+          REPO_NAME: Hextra-AI-Insight-Daily
+        run: python .github/scripts/gen_daily.py
+
+      - name: Trigger Pages Deploy
+        run: |
+          curl -X POST \
+            -H "Authorization: Bearer ${{ secrets.GH_TOKEN }}" \
+            -H "Accept: application/vnd.github.v3+json" \
+            "https://api.github.com/repos/qigemingzidiangezan/Hextra-AI-Insight-Daily/actions/workflows/pages.yaml/dispatches" \
+            -d '{"ref":"main"}'
