@@ -1,0 +1,628 @@
+<meta name="referrer" content="no-referrer-when-downgrade">
+<meta name="twitter:site" content="@justlikemaki">
+<meta name="twitter:image" content="{{ .Site.BaseURL }}/images/logo-dark.png">
+<meta name="og:image" content="{{ .Site.BaseURL }}/images/logo-dark.png">
+
+{{ if .Params.robots }}
+  <meta name="robots" content="{{ .Params.robots }}">
+{{ end }}
+
+{{ if .IsTranslated }}
+  {{ range .AllTranslations }}
+    <link rel="alternate" hreflang="{{ .Language.Lang }}" href="{{ .Permalink }}" />
+  {{ end }}
+{{ end }}
+
+{{- if .Site.Params.adsenseId -}}
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={{- .Site.Params.adsenseId | safeJS -}}" crossorigin="anonymous"></script>
+{{- end -}}
+
+{{- if .Site.Params.wwgg -}}
+<script type="text/javascript" charset="UTF-8" src="https://cdn.wwads.cn/js/makemoney.js" async></script>
+{{- end -}}
+
+{{- if .Site.Params.umamiKey -}}
+<script defer src="https://cloud.umami.is/script.js" data-website-id="{{- .Site.Params.umamiKey | safeJS -}}"></script>
+{{- end -}} 
+
+{{- if .Site.Params.ahrefsKey -}}  
+<script src="https://analytics.ahrefs.com/analytics.js" data-key="{{- .Site.Params.ahrefsKey | safeJS -}}" async></script>
+{{- end -}} 
+
+{{/* 只有在配置文件中设置了 clarityID 时，才输出这段脚本 */}}
+{{- if .Site.Params.clarityID -}}    
+<script type="text/javascript">
+// Clarity Analytics Script
+(function(c,l,a,r,i,t,y){
+    c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
+    t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
+    y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
+})(window, document, "clarity", "script", "{{- .Site.Params.clarityID | safeJS -}}");    
+</script>    
+{{- end -}}   
+
+
+<script async src="//finicounter.eu.org/finicounter.js"></script>
+<script src="/adview_pic_cpc_cpm_cpa_guanggao_gg_guge__ads_300x250.js" type="text/javascript"></script> 
+<script type="text/javascript">
+if (typeof(killads) == 'undefined') {
+
+  // Creates a theme-aware ad blocker notice by injecting HTML and CSS.
+  function createEnhancedAdBlockNotice() {
+    
+    // If the pop-up already exists, do nothing.
+    if (document.getElementById('adblock-overlay')) {
+      return;
+    }
+
+    // --- 1. Define CSS and HTML Structure ---
+
+    // All styles are now in this CSS block.
+    const css = `
+      @keyframes adblock-fadeIn {
+        from { opacity: 0; transform: scale(0.95); }
+        to { opacity: 1; transform: scale(1); }
+      }
+      #adblock-overlay {
+        position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+        background-color: rgba(0, 0, 0, 0.8); z-index: 9999;
+        display: flex; justify-content: center; align-items: center;
+        backdrop-filter: blur(4px);
+      }
+      #adblock-modal {
+        max-width: 460px; width: 90%; padding: 40px; border-radius: 16px;
+        font-family: ui-sans-serif, system-ui, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+        animation: adblock-fadeIn 0.3s ease-out;
+      }
+      #adblock-modal h2 { margin: 15px 0 40px; font-size: 24px; font-weight: 600; text-align: center; }
+      #adblock-modal p { font-size: 16px; line-height: 1.8; margin-bottom: 15px; }
+      #adblock-modal p:last-of-type { margin-bottom: 25px; }
+      #adblock-modal .adblock-notice p { margin-bottom: 0; }
+      .adblock-notice { padding: 15px 20px; border-radius: 8px; border-left: 4px solid; }
+      .adblock-notice p { margin: 0; font-size: 16px; line-height: 1.6; text-align: center; }
+      .adblock-button-container { text-align: center; margin-top: 30px; }
+      #adblock-close-button {
+        padding: 12px 25px; border-radius: 8px; cursor: pointer; font-size: 15px;
+        font-weight: 500; border-style: solid; transition: background-color 0.2s, transform 0.1s;
+      }
+      #adblock-close-button:active { transform: scale(0.98); }
+
+      /* Light Theme (Default) */
+      #adblock-modal { background-color: #fff; box-shadow: 0 15px 30px rgba(0,0,0,0.2); }
+      #adblock-modal h2 { color: #333; }
+      #adblock-modal p { color: #555; }
+      #adblock-modal strong { color: #111827; }
+      .adblock-notice { background-color: #E8F5E9; border-left-color: #4CAF50; }
+      .adblock-notice p, .adblock-notice strong { color: #2E7D32; }
+      #adblock-close-button { background-color: #f1f1f1; color: #666; border-width: 0; }
+      #adblock-close-button:hover { background-color: #e0e0e0; }
+
+      /* Dark Theme Overrides */
+      .adblock-dark-theme #adblock-modal { background-color: #2a2a2a; box-shadow: 0 15px 30px rgba(0,0,0,0.4); border: 1px solid #444; }
+      .adblock-dark-theme #adblock-modal h2 { color: #f0f0f0; }
+      .adblock-dark-theme #adblock-modal p { color: #ccc; }
+      .adblock-dark-theme #adblock-modal strong { color: #ff9900; }
+      .adblock-dark-theme .adblock-notice { background-color: rgba(76,175,80,0.15); border-left-color: #4CAF50; }
+      .adblock-dark-theme .adblock-notice p, .adblock-dark-theme .adblock-notice strong { color: #a5d6a7; }
+      .adblock-dark-theme #adblock-close-button { background-color: #444; color: #eee; border: 1px solid #555; }
+      .adblock-dark-theme #adblock-close-button:hover { background-color: #555; }
+    `;
+    
+    const modalHTML = `
+      <div id="adblock-modal">
+        <h2>一份小小的请求</h2>
+        <p>我们发现您可能正在使用<strong>广告屏蔽器</strong></p>
+        <p>广告是支持本站 <strong>持续运营</strong> 与 <strong>免费分享</strong> 的动力来源。如果本站对您有帮助，恳请将我们加入 <strong>白名单</strong>。您的这份善意，是对我们 <strong>最大的支持</strong>！</p>
+        <div class="adblock-notice">
+          <p><strong>操作很简单：</strong>在插件中将本站设为白名单，然后 <strong>刷新页面</strong> 即可。</p>
+        </div>
+        <div class="adblock-button-container">
+          <button id="adblock-close-button">我明白了，继续浏览</button>
+        </div>
+      </div>
+    `;
+
+    // --- 2. Inject Elements into the DOM ---
+
+    // Inject the CSS into the page's head.
+    const style = document.createElement('style');
+    style.id = 'adblock-notice-styles';
+    style.appendChild(document.createTextNode(css));
+    document.head.appendChild(style);
+      
+    // Create the background overlay and set its HTML.
+    const overlay = document.createElement('div');
+    overlay.id = 'adblock-overlay';
+    overlay.innerHTML = modalHTML;
+    
+    // --- 3. Apply Theme and Activate ---
+
+    // Check for dark mode and apply the theme class if needed.
+    if (document.documentElement.classList.contains('dark')) {
+      overlay.classList.add('adblock-dark-theme');
+    }
+
+    // Add the fully-formed pop-up to the page.
+    document.body.appendChild(overlay);
+    document.body.style.overflow = 'hidden';
+
+    // Add the click event listener to the close button.
+    document.getElementById('adblock-close-button').addEventListener('click', function() {
+      document.body.removeChild(overlay);
+      document.head.removeChild(style); // Clean up the added style tag.
+      document.body.style.overflow = 'auto';
+    });
+  }
+
+  // Run the function after the page content has loaded.
+  window.addEventListener('DOMContentLoaded', createEnhancedAdBlockNotice);
+}
+</script>
+
+<script>
+
+// 这是一个自定义脚本，用于处理特定的页面逻辑和功能
+var $jscomp=$jscomp||{};$jscomp.scope={};$jscomp.createTemplateTagFirstArg=function(a){return a.raw=a};$jscomp.createTemplateTagFirstArgWithRaw=function(a,b){a.raw=b;return a};
+(function(){var a=window.location.href,b=window.location.pathname;"justlovemaki.github.io"===window.location.hostname&&b.startsWith("/Hextra-AI-Insight-Daily/")&&(b="https://ai.hubtoday.app/"+b.substring(40)+window.location.search+window.location.hash,console.log("Original URL: "+a),console.log("Redirecting to: "+b),window.location.replace(b))})();
+ 
+// 这是一个自定义脚本，用于处理侧边栏菜单的点击阻止逻辑
+document.addEventListener('DOMContentLoaded', function() {
+
+    /**
+     * 为指定的侧边栏菜单应用点击阻止逻辑。
+     * @param {string} selector - 目标 <ul> 元素的 CSS 选择器。
+     * @param {string} menuType - 菜单类型（例如 'Desktop' 或 'Mobile'），用于日志记录。
+     */
+    function applyClickPrevention(selector, menuType) {
+        // 使用提供的选择器查找菜单UL元素
+        // 注意：CSS选择器中的冒号需要用反斜杠转义
+        const menuUl = document.querySelector(selector);
+
+        if (menuUl) {
+            // 选择该UL下所有第一级的<a>标签
+            const firstLevelAnchors = menuUl.querySelectorAll(':scope > li > a');
+            let preventedCount = 0;
+
+            firstLevelAnchors.forEach(anchor => {
+                const parentLi = anchor.closest('li');
+                // 检查这个li内部是否包含一个子菜单（另一个ul）
+                const hasSubmenu = parentLi && parentLi.querySelector('ul');
+
+                // **仅当存在子菜单时**，才阻止链接的默认导航行为
+                if (hasSubmenu) {
+                    anchor.addEventListener('click', function(event) {
+                        // 阻止链接的默认导航行为
+                        event.preventDefault();
+                        console.log(`[${menuType}] Default navigation prevented for:`, anchor.href);
+
+                        // 切换父级li的 'open' 类以展开/折叠子菜单
+                        if (parentLi) {
+                            parentLi.classList.toggle('open');
+                            console.log(`[${menuType}] ${parentLi.classList.contains('open') ? 'Opened' : 'Closed'} submenu for:`, anchor.textContent.trim());
+                        }
+                    });
+                    preventedCount++;
+                }
+            });
+
+            console.log(`[${menuType}] Added click prevention to ${preventedCount} first-level <a> tags with submenus in '${selector}'.`);
+        } else {
+            console.warn(`[${menuType}] The specified UL ('${selector}') was not found.`);
+        }
+    }
+
+    // --- 主逻辑 ---
+
+    // 1. 定义桌面端菜单的选择器（转义冒号，使 querySelector 能匹配类名中包含冒号的 Tailwind-like 类）
+    const desktopMenuSelector = 'ul.hx\\:flex.hx\\:flex-col.hx\\:gap-1.hx\\:max-md\\:hidden'; 
+
+    // 2. 定义移动端菜单的选择器
+    // 通常，移动端菜单的类与桌面端相反（例如，在md及以上屏幕隐藏）
+    // !!! 请根据你的HTML结构检查并确认这个选择器是正确的 !!!
+    const mobileMenuSelector = 'ul.hx\\:flex.hx\\:flex-col.hx\\:gap-1.hx\\:md\\:hidden'; 
+
+    // 3. 分别为桌面和移动端菜单应用逻辑
+    applyClickPrevention(desktopMenuSelector, 'Desktop Menu');
+    applyClickPrevention(mobileMenuSelector, 'Mobile Menu');
+
+});
+
+// 在页面加载完成后执行时间标签本地化
+document.addEventListener('DOMContentLoaded', function() {
+     // 1. 获取所有 <time> 元素
+    const timeElements = document.querySelectorAll('time');
+
+    // 2. 遍历每个元素
+    timeElements.forEach(timeEl => {
+        // 3. 获取 UTC 时间字符串
+        const utcDateTime = timeEl.getAttribute('datetime');
+        if (!utcDateTime) {
+            return; // 跳过没有 datetime 属性的标签
+        }
+
+        // 4. 创建 Date 对象
+        const dateObj = new Date(utcDateTime);
+        if (isNaN(dateObj.getTime())) {
+            return; // 跳过无效的日期
+        }
+
+        // 5. 转换为本地化字符串并更新内容
+        // toLocaleString() 会自动处理时区偏移
+        timeEl.textContent = dateObj.toLocaleString();
+    });
+});
+
+</script>
+
+
+{{- if (and .Site.Params.floatingWidget .Site.Params.floatingWidget.enable) -}}
+<script>
+/**
+ * 悬浮图标加载 iframe 脚本
+ * 功能：在右下角显示悬浮图标，点击展开/折叠 iframe，支持主题动态切换
+ */
+(function() {
+    function initFloatingWidget() {
+        const iframeBaseUrl = "{{ .Site.Params.floatingWidget.url }}";
+        
+        // 1. 注入 CSS 样式
+        const css = `
+            #floating-widget-container {
+                position: fixed;
+                bottom: 32px;
+                right: 248px;
+                z-index: 9999;
+                display: flex;
+                flex-direction: column;
+                align-items: flex-end;
+                font-family: system-ui, -apple-system, sans-serif;
+            }
+            #floating-widget-iframe-wrapper {
+                width: 300px;
+                height: 600px;
+                max-width: 90vw;
+                max-height: 80vh;
+                border-radius: 12px;
+                box-shadow: 0 12px 40px rgba(0,0,0,0.25);
+                margin-bottom: 16px;
+                overflow: hidden;
+                display: none;
+                background: #fff;
+                border: none;
+                transition: all 0.3s ease;
+                position: relative;
+            }
+            #floating-widget-loader {
+                position: absolute;
+                inset: 0;
+                display: none;
+                align-items: center;
+                justify-content: center;
+                background: inherit;
+                z-index: 10;
+            }
+            .spinner {
+                width: 32px;
+                height: 32px;
+                border: 3px solid #e5e7eb;
+                border-top-color: #007bff;
+                border-radius: 50%;
+                animation: spin 0.8s linear infinite;
+            }
+            .dark .spinner {
+                border-color: #444;
+                border-top-color: #ff9900;
+            }
+            @keyframes spin {
+                from { transform: rotate(0deg); }
+                to { transform: rotate(360deg); }
+            }
+            .dark #floating-widget-iframe-wrapper {
+                background: #1a1a1a;
+                box-shadow: 0 12px 40px rgba(0,0,0,0.5);
+            }
+            #floating-widget-iframe-wrapper iframe {
+                width: 100%;
+                height: 100%;
+                border: none;
+                scrollbar-width: none;
+                -ms-overflow-style: none;
+            }
+            #floating-widget-iframe-wrapper iframe::-webkit-scrollbar {
+                display: none;
+            }
+            #floating-widget-toggle {
+                width: 56px;
+                height: 56px;
+                border-radius: 28px;
+                background: #ffffff;
+                color: #4b5563;
+                display: flex;
+                align-items: center;
+                justify-content: center;
+                cursor: pointer;
+                box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+                border: none;
+                transition: all 0.2s ease;
+                position: relative; /* 确保波纹准确定位 */
+            }
+            #floating-widget-toggle:hover {
+                transform: scale(1.05);
+                background-color: #f9fafb;
+                color: #111827;
+                box-shadow: 0 8px 32px rgba(0,0,0,0.18);
+            }
+            .dark #floating-widget-toggle {
+                background: #1a1a1a;
+                color: #9ca3af;
+                box-shadow: 0 4px 24px rgba(0,0,0,0.4);
+            }
+            .dark #floating-widget-toggle:hover {
+                background-color: #262626;
+                color: #f3f4f6;
+                box-shadow: 0 8px 32px rgba(0,0,0,0.6);
+            }
+            #floating-widget-toggle svg {
+                width: 28px;
+                height: 28px;
+                fill: currentColor;
+                transition: transform 0.3s ease;
+                z-index: 2; /* 确保图标在波纹上方 */
+            }
+            #floating-widget-toggle.active svg {
+                transform: rotate(180deg);
+            }
+            #floating-widget-toggle:not(.active) {
+                animation: bounce-hint 3s infinite ease-in-out;
+            }
+            /* 扩散波纹效果 */
+            #floating-widget-toggle:not(.active)::before {
+                content: "";
+                position: absolute;
+                inset: 0;
+                border-radius: 50%;
+                background: #007bff; /* 浅色模式主题色 */
+                z-index: -1;
+                animation: ripple 3s infinite ease-out;
+                opacity: 0.6;
+            }
+            .dark #floating-widget-toggle:not(.active)::before {
+                background: #ff9900; /* 深色模式主题色 */
+            }
+            @keyframes bounce-hint {
+                0%, 100% { transform: translateY(0) scale(1); }
+                50% { transform: translateY(-12px) scale(1.05); }
+            }
+            @keyframes ripple {
+                0% {
+                    transform: scale(1);
+                    opacity: 0.6;
+                }
+                60%, 100% {
+                    transform: scale(1.8);
+                    opacity: 0;
+                }
+            }
+            @media (max-width: 767px) {
+                #floating-widget-container {
+                    display: none;
+                }
+            }
+        `;
+
+        const style = document.createElement('style');
+        style.textContent = css;
+        document.head.appendChild(style);
+
+        // 2. 创建 HTML 结构
+        const container = document.createElement('div');
+        container.id = 'floating-widget-container';
+        
+        const wrapper = document.createElement('div');
+        wrapper.id = 'floating-widget-iframe-wrapper';
+        
+        const iframe = document.createElement('iframe');
+        iframe.id = 'floating-widget-iframe';
+        wrapper.appendChild(iframe);
+
+        const loader = document.createElement('div');
+        loader.id = 'floating-widget-loader';
+        loader.innerHTML = '<div class="spinner"></div>';
+        wrapper.appendChild(loader);
+
+        iframe.onload = () => {
+            loader.style.display = 'none';
+        };
+        
+        const toggle = document.createElement('div');
+        toggle.id = 'floating-widget-toggle';
+        toggle.title = '和我聊聊';
+        // 使用一个带有 AI 星光效果的对话图标
+        toggle.innerHTML = '<svg viewBox="0 0 24 24"><path d="M12,2A10,10 0 0,0 2,12C2,14.42 2.85,16.64 4.28,18.38L3,22L6.65,20.73C8.2,21.55 9.95,22 11.8,22C17.3,22 21.8,17.5 21.8,12C21.8,6.5 17.3,2 11.8,2M11.8,4C16.2,4 19.8,7.6 19.8,12C19.8,16.4 16.2,20 11.8,20C10.3,20 8.9,19.6 7.7,18.9L7.4,18.7L5.2,19.5L6,17.3L5.8,17C4.7,15.5 4,13.8 4,12C4,7.6 7.6,4 11.8,4M13,7L12.2,8.8L10.4,9.6L12.2,10.4L13,12.2L13.8,10.4L15.6,9.6L13.8,8.8L13,7M9,11L8.1,13L6.1,13.9L8.1,14.8L9,16.8L9.9,14.8L11.9,13.9L9.9,13L9,11Z"/></svg>';
+        
+        container.appendChild(wrapper);
+        container.appendChild(toggle);
+        document.body.appendChild(container);
+
+        // 3. 逻辑处理
+        function getTheme() {
+            return document.documentElement.classList.contains('dark') ? 'dark' : 'light';
+        }
+
+        function updateIframeUrl() {
+            const currentTheme = getTheme();
+            const currentUrl = encodeURIComponent(window.location.href);
+            const targetUrl = `${iframeBaseUrl}?theme=${currentTheme}&ru=${currentUrl}`;
+            if (iframe.src !== targetUrl) {
+                const loader = document.getElementById('floating-widget-loader');
+                if (loader) loader.style.display = 'flex';
+                iframe.src = targetUrl;
+            }
+        }
+
+        toggle.addEventListener('click', () => {
+            const isVisible = wrapper.style.display === 'block';
+            if (isVisible) {
+                wrapper.style.display = 'none';
+                toggle.classList.remove('active');
+            } else {
+                // 仅在展开时更新/加载 URL
+                updateIframeUrl();
+                wrapper.style.display = 'block';
+                toggle.classList.add('active');
+            }
+        });
+
+        // 4. 监听主题切换
+        const themeObserver = new MutationObserver((mutations) => {
+            mutations.forEach((mutation) => {
+                if (mutation.attributeName === 'class') {
+                    // 仅当展开状态时才同步主题，避免后台无谓加载
+                    if (wrapper.style.display === 'block') {
+                        updateIframeUrl();
+                    }
+                }
+            });
+        });
+        themeObserver.observe(document.documentElement, { attributes: true });
+    }
+
+    if (document.readyState === 'loading') {
+        window.addEventListener('DOMContentLoaded', initFloatingWidget);
+    } else {
+        initFloatingWidget();
+    }
+})();
+</script>
+{{- end -}}
+
+{{ "<!-- ENTERING partial seo-schema.html -->" | safeHTML }}
+
+{{/* --- Publisher Block --- */}}
+{{- $publisher := "" -}}
+{{- with .Site.Params.publisher -}}
+  {{- $p := . -}}
+  {{- $type := .type | default "Organization" -}}
+  {{- $name := .name | default $.Site.Title -}}
+
+  {{- $publisherData := dict "@type" $type "name" $name -}}
+  {{- if eq $type "Organization" -}}
+    {{- with .logo -}}
+      {{- $logoData := dict "@type" "ImageObject" "url" ( . | absURL ) -}}
+      {{- $publisherData = merge $publisherData (dict "logo" $logoData) -}}
+    {{- end -}}
+  {{- else if eq $type "Person" -}}
+    {{- with .url -}}
+      {{- $publisherData = merge $publisherData (dict "url" ( . | absURL )) -}}
+    {{- end -}}
+    {{- with .sameAs -}}
+      {{- $publisherData = merge $publisherData (dict "sameAs" .) -}}
+    {{- end -}}
+  {{- end -}}
+  {{- $publisher = $publisherData -}}
+{{- end -}}
+
+
+{{/* --- Author Block --- */}}
+{{- $author := "" -}}
+{{/* 1. Check for single author in page Front Matter */}}
+{{- $author_id := .Params.author -}}
+{{- if and $author_id (index .Site.Data.authors $author_id) -}}
+  {{- $authorData := index .Site.Data.authors $author_id -}}
+  {{- $author = dict "@type" "Person" "name" $authorData.name -}}
+  {{- with $authorData.website -}}
+    {{- $author = merge $author (dict "url" ( . | absURL )) -}}
+  {{- end -}}
+{{/* 2. Fallback to global author in hugo.yaml `params` */}}
+{{- else if .Site.Params.author -}}
+  {{- $author = dict "@type" "Person" "name" .Site.Params.author.name -}}
+  {{- with .Site.Params.author.website -}}
+    {{- $author = merge $author (dict "url" ( . | absURL )) -}}
+  {{- end -}}
+{{/* 3. Fallback to global author in hugo.yaml `author` */}}
+{{- else if .Site.Author.name -}}
+  {{- $author = dict "@type" "Person" "name" .Site.Author.name -}}
+  {{- with .Site.Author.website -}}
+    {{- $author = merge $author (dict "url" ( . | absURL )) -}}
+  {{- end -}}
+{{- end -}}
+
+{{- if .IsHome -}}
+  {{/* --- WebSite Schema --- */}}
+  {{- $schema := dict "@context" "https://schema.org" "@type" "WebSite" -}}
+  {{- $schema = merge $schema (dict "url" .Site.BaseURL "name" .Site.Title) -}}
+  {{- with .Site.Params.description -}}
+    {{- $schema = merge $schema (dict "description" .) -}}
+  {{- end -}}
+  {{- with $publisher -}}
+    {{- $schema = merge $schema (dict "publisher" .) -}}
+  {{- end -}}
+<script type="application/ld+json">
+{{ $schema }}
+</script>
+
+{{- else if .IsPage -}}
+  {{/* --- Article/TechArticle Schema --- */}}
+  {{- $iso8601 := "2006-01-02T15:04:05-07:00" -}}
+  {{- $schema := dict "@context" "https://schema.org" "@type" "TechArticle" -}}
+  {{- $schema = merge $schema (dict
+      "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+      "headline" .Title
+      "url" .Permalink
+      "wordCount" .WordCount
+    ) -}}
+
+  {{- $docDesc := .Description | default "" -}}
+  {{- $siteParamDesc := .Site.Params.description | default "" -}}
+  {{- $description := or $docDesc $siteParamDesc -}}
+  {{- with $description -}}
+    {{- $schema = merge $schema (dict "description" .) -}}
+  {{- end -}}
+
+  {{- $image := "" -}}
+  {{- if .Params.image.url -}}
+    {{- $image = .Params.image -}}
+  {{- else if .Site.Params.image.url -}}
+    {{- $image = .Site.Params.image -}}
+  {{- end -}}
+  {{- with $image -}}
+    {{- if ge .width 696 -}}
+      {{- $imageData := dict "@type" "ImageObject" "url" ( .url | absURL ) "width" .width "height" .height -}}
+      {{- $schema = merge $schema (dict "image" $imageData) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Type -}}
+    {{- $schema = merge $schema (dict "genre" .) -}}
+  {{- end -}}
+  {{- with .Params.tags -}}
+    {{- $schema = merge $schema (dict "keywords" (delimit . ", ")) -}}
+  {{- end -}}
+
+  {{- $published := .PublishDate | default .Date -}}
+  {{- if not $published.IsZero -}}
+    {{- $schema = merge $schema (dict "datePublished" ($published.Format $iso8601)) -}}
+  {{- end -}}
+  {{- with .Lastmod -}}
+    {{- if not .IsZero -}}
+      {{- $schema = merge $schema (dict "dateModified" (.Format $iso8601)) -}}
+    {{- end -}}
+  {{- end -}}
+
+  {{- with .Site.Copyright -}}
+    {{- $schema = merge $schema (dict "license" .) -}}
+  {{- end -}}
+
+  {{- with $publisher -}}
+    {{- $schema = merge $schema (dict "publisher" .) -}}
+  {{- end -}}
+  {{- with $author -}}
+    {{- $schema = merge $schema (dict "author" .) -}}
+  {{- end -}}
+
+<script type="application/ld+json">
+{{ $schema }}
+</script>
+
+{{- end }}
+{{ "<!-- LEAVING partial seo-schema.html -->" | safeHTML }}

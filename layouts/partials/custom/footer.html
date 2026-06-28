@@ -1,0 +1,27 @@
+<div class="footer-wrapper">
+    <div class="footer-container">
+        <ul class="footer-links">
+            {{- $pages := slice
+                (dict "id" "contact" "title" "联系我们")
+                (dict "id" "privacy-policy" "title" "隐私政策")
+                (dict "id" "terms-of-service" "title" "服务条款")
+            -}}
+    
+            {{- /* 遍历列表，我们给当前遍历的字典起个名字叫 $page_dict */ -}}
+            {{- range $page_dict := $pages }}
+                {{- $path := path.Join .Page.Language.Lang $page_dict.id -}}
+    
+                {{- /* 只用 with 来检查页面是否存在并获取链接，但不使用它的标题 */ -}}
+                {{- with site.GetPage $path -}}
+                    <li><a href="{{ .RelPermalink }}">{{ $page_dict.title }}</a></li>
+                {{- end -}}
+            {{- end -}}
+            <li>本站累计访问量：<span id="finicount_views"></span></li>
+        </ul>
+
+        <div class="footer-copyright">
+            {{- $copyright := printf "© %d %s" now.Year site.Title -}}
+            <a href="{{ "" | relLangURL }}">{{ $copyright | safeHTML }}</a>
+        </div>
+    </div>
+</div>

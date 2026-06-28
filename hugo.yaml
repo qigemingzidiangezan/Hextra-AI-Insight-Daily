@@ -1,0 +1,163 @@
+# Hugo configuration file
+title: AI资讯日报 | 精选AI新闻与工具 | 洞悉AI前沿动态
+
+timezone: Asia/Shanghai
+enableRobotsTXT: true
+enableGitInfo: true
+enableEmoji: true
+hasCJKLanguage: true
+enableInlineShortcodes: true
+
+services:  
+  googleAnalytics:
+    ID: "G-SECWWMY8WQ"
+
+outputs:
+  home: [html]
+  page: [html]
+  section: [html, rss]
+
+# import hextra as module
+module:
+  imports:
+    - path: github.com/imfing/hextra
+
+markup:
+  # allow raw html
+  goldmark:
+    renderer:
+      unsafe: true
+
+  # enable hextra syntax highlight
+  highlight:
+    noClasses: false
+
+menu:
+  main:
+    - identifier: search
+      name: 搜索
+      weight: 10
+      params:
+        type: search
+    - identifier: documentation
+      name: AI资讯日报
+      pageRef: /
+      weight: 1
+    - identifier: weekly
+      name: AI周报
+      pageRef: /blog/weekly
+      weight: 2
+    - identifier: ai_nav
+      name: AI导航
+      url: https://nav.hubtoday.app/
+      weight: 3
+    - identifier: blog
+      name: 博客
+      pageRef: /blog
+      weight: 4
+    - identifier: about
+      name: 关于 ↗
+      url: "https://github.com/qigemingzidiangezan"
+      weight: 5
+    - identifier: github
+      name: GitHub
+      weight: 6
+      url: "https://github.com/qigemingzidiangezan/Hextra-AI-Insight-Daily"
+      params:
+        icon: github
+
+params:
+  adsenseId: "ca-pub-8136412975724403"
+  umamiKey: "2b24e36d-6e56-499b-8b7e-aea4d308caff"
+  ahrefsKey-del: "Qe0ZpZJ6/W8rgMFnLgk4kg"
+  description: 专注个人每日整理的AI资讯站。我们为您过滤全网信息噪音，只提供最精选的国内外AI新闻与大模型最新动态。除了挖掘最实用的AI办公效率工具推荐，还搭配零基础也能懂的AI落地应用实操教程。助您每天高效获取人工智能领域的前沿动态，洞悉全球人工智能最新发展趋势，快人一步打破科技信息差，轻松享受AI红利！
+  descriptionEn: Your daily source for curated AI news & latest artificial intelligence trends. Master generative AI with practical tools & actionable tutorials!
+  logo: "images/logo-dark.png"
+  # wwgg: "388"
+  # ucloudad01: "1"
+  
+  author:
+    name: "AI资讯日报"
+    bio: "每日AI新闻聚合"
+    email: "3425805258@qq.com"
+    website: "https://qigemingzidiangezan.github.io/Hextra-AI-Insight-Daily/"
+    social:
+      - name: "GitHub"
+        url: "https://github.com/qigemingzidiangezan"
+        
+  publisher:
+    type: "Person"
+    name: "AI资讯日报"
+    url: "https://qigemingzidiangezan.github.io/Hextra-AI-Insight-Daily/"
+    sameAs:
+      - "https://github.com/qigemingzidiangezan"
+      
+  displayUpdatedDate: false
+  dateFormat: "2006/01/02 15:04:05"
+
+  navbar:
+    displayTitle: false
+    displayLogo: true
+    logo:
+      path: images/logo.png
+      dark: images/logo-dark.png
+      width: 175
+      height: 50
+
+
+  footer:
+    displayCopyright: false
+    displayPoweredBy: false
+
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publishDate | title | weight
+      sortBy: date
+      sortOrder: desc # or "asc"
+      # Pagination
+      pagerSize: 10
+
+    article:
+      displayPagination: true
+
+  toc:
+    displayTags: false
+  
+  page:
+    # full (100%), wide (90rem), normal (1280px)
+    width: wide
+
+    # 搜索
+  search:
+    enable: true
+    type: flexsearch
+    flexsearch:
+      # 按以下内容索引页面：content | summary | heading | title
+      index: content
+
+  comments:
+    enable: false
+    type: giscus
+
+    giscus:
+      repo: justlovemaki/Hextra-AI-Insight-Daily
+      repoId: R_kgDOO_2Owg
+      category: Announcements
+      categoryId: DIC_kwDOO_2Ows4Cr2Q0
+
+  floatingWidget:
+    enable: false
+
+defaultContentLanguage: zh
+languages:
+  zh:
+    languageCode: zh-CN
+    contentDir: content/cn
+    languageName: 简体中文
+    weight: 1
+  en:
+    contentDir: content/en
+    languageName: English
+    title: Hex2077's AI Daily | AI Weekly | AI News | AI Tools | AI Insights
+    weight: 2

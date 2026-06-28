@@ -1,0 +1,80 @@
+---
+linkTitle:  
+title:  
+breadcrumbs: false
+comments: true
+description:  
+cascade:
+  type: docs
+---
+
+{{< hextra/hero-headline >}}
+何夕2077的AI资讯站
+{{< /hextra/hero-headline >}}
+
+<div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  {{< hextra/hero-badge link="/2026-05/2026-05-08" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}🤝 商务合作交流{{< /hextra/hero-badge >}}
+</div>
+
+---
+
+{{< callout type="important" emoji="💡" >}}
+  **站点理念**：我们不追求信息最多，只追求信息更准、更快、更有用。
+{{< /callout >}}
+
+## 💎 核心价值
+
+{{< cards cols="3" >}}
+  {{< card title="高效降噪" icon="newspaper" subtitle="从每日数千条资讯中提炼真正值得阅读的精华，节省您的检索时间。" >}}
+  {{< card title="深度解读" icon="translate" subtitle="用中文语境深度解读前沿动态，不仅是翻译，更是洞察。" >}}
+  {{< card title="实战导向" icon="sparkles" subtitle="关注 AI 工具如何落地，帮您在生产力革命中发现真实的商业机会。" >}}
+{{< /cards >}}
+
+## 🕒 最近内容
+
+{{< cards cols="3" >}}
+<!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-05/2026-05-08" title="AI资讯日报 2026/05/08" subtitle="OpenAI推实时同传模型与接口，Genesis打蛋机器人展示毫米级精密操控 Meta编程评测揭模型架构缺陷，Anthropic开源代码解释技术揭秘黑盒 xAI并入SpaceX共建卫星算力，腾讯混元H" icon="calendar" >}}
+  {{< card link="/2026-05/2026-05-07" title="AI资讯日报 2026/05/07" subtitle="Claude 推出智能体梦境功能，Claude上线托管代理功能，Excel深度集成办公助手 OpenSeeker-v2挑战搜索垄断，CropVLM助力精准农业，发布ClawMark评测及动漫模型 Op" icon="calendar" >}}
+  {{< card link="/2026-05/2026-05-06" title="AI资讯日报 2026/05/06" subtitle="OpenAI发GPT-5.5即刻版，智能体手机曝光，联发科供芯二七年量产 Meta网页推十六路智能体并发，Chrome静默装大模型并占巨量空间 MotionCache六倍提速视频生成，TabPFN实现" icon="calendar" >}}
+  {{< card link="/2026-05/2026-05-05" title="AI资讯日报 2026/05/05" subtitle="OpenAI重构WebRTC低延迟语音架构，FLUX推超写实LoRA，Cursor及可灵AI功能大幅升级 港理工开源思考型手语翻译模型，新型注意力攻击秒破LLaMA-3安全对齐防御，科研图谱发布 Be" icon="calendar" >}}
+  {{< card link="/2026-05/2026-05-04" title="AI资讯日报 2026/05/04" subtitle="Anthropic年化收入超440亿，发布官方指南助力企业全自动运营 马斯克诉OpenAI案揭露转型内幕，Kimi发布2.5万亿参数模型重塑格局 斯坦福合成病毒研究登Nature封面，AI精准识别胰腺" icon="calendar" >}}
+  {{< card link="/2026-05/2026-05-03" title="AI资讯日报 2026/05/03" subtitle="全息交互毫秒级响应，JEPA世界模型获突破，群体智能协作效能倍增 顶尖模型逻辑测试折戟，VS Code强制署名惹议，加州严管无人驾驶违章 苹果泄露Claude开发细节，xAI算力利用率仅一成，Meta" icon="calendar" >}}
+<!-- LATEST_6_CARDS_END -->
+{{< /cards >}}
+
+## 🛤️ 推荐阅读路径
+
+{{% steps %}}
+
+### 1. 建立宏观视野
+初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
+
+### 2. 保持每日同步
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-05/2026-05-08)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+
+### 3. 探索深度实践
+了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
+
+{{% /steps %}}
+
+---
+
+## 👥 谁在阅读
+
+<div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+  {{< hextra/hero-badge >}}💼 AI 从业者{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}💻 技术开发者{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}✨ 内容创作者{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}⚡ 效率工具控{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge >}}👁️ 前瞻性读者{{< /hextra/hero-badge >}}
+</div>
+
+## 📮 保持联系
+
+{{< cards cols="2" >}}
+  {{< card link="https://github.com/justlovemaki" title="商务交流" subtitle="寻求合作、资源对接或提供反馈建议" icon="mail" >}}
+  {{< card link="/blog/index.xml" title="RSS 订阅" subtitle="通过 RSS 订阅本站，获取最及时的内容推送" icon="globe-alt" >}}
+{{< /cards >}}

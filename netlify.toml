@@ -1,0 +1,19 @@
+[build]
+publish = "public"
+command = "hugo --gc --minify -b ${URL}"
+
+[build.environment]
+HUGO_VERSION = "0.147.9"
+
+
+[[redirects]]
+  from = "https://hextra-ai-insight-daily.netlify.app/*"
+  to = "https://ai.hubtoday.app/:splat"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "https://main--hextra-ai-insight-daily.netlify.app/*"
+  to = "https://ai.hubtoday.app/:splat"
+  status = 301
+  force = true
