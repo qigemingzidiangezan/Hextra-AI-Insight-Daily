@@ -13,7 +13,7 @@ Hexi 2077's AI News Hub
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the Latest News! 🚀{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the Latest News! 🔥{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! ✨{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? Let's Chat! 🤝{{< /hextra/hero-badge >}}
 </div>
@@ -21,27 +21,27 @@ Hexi 2077's AI News Hub
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? It's super simple! 😉 We're all about dishing out the most accurate, timely, and genuinely useful info – no fluff, just the good stuff, promise!
+  Our philosophy is super simple! We're all about dishing out the most accurate, timely, and genuinely useful info – no fluff, just the good stuff, promise!
 {{< /callout >}}
 
 ## Our Core Values
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise? Absolutely our jam! 💡 We're not just cranking up the volume; we're slicing through the daily digital din, pulling out what *truly* matters from zillions of updates. Seriously, imagine all the precious hours you'll snag back!" >}}
-  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight? That's exactly what we deliver! 🔎 We don't just translate; we dish out razor-sharp analysis, giving you the actual lowdown on bleeding-edge AI developments. Seriously, this is where you get the real scoop!" >}}
-  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus? It's absolutely key for us! 🔧 We're tracking how AI tools are *really* shaking things up in the wild, helping you snag genuine opportunities in the productivity revolution. It's totally time to level up your game!" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is absolutely our jam! We're not just cranking up the volume; we're slicing through the daily digital din, pulling out what *truly* matters from zillions of updates. Seriously, imagine all the precious hours you'll snag back! 💡" >}}
+  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight is exactly what we deliver! We don't just translate; we dish out razor-sharp analysis, giving you the actual lowdown on bleeding-edge AI developments. Seriously, this is where you get the real scoop! 🔍" >}}
+  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is absolutely key for us! We're tracking how AI tools are *really* shaking things up in the wild, helping you snag genuine opportunities in the productivity revolution. It's totally time to level up your game! 🔧" >}}
 {{< /cards >}}
 
-<h2>Fresh Off the Press! 🗞️</h2>
+<h2>Fresh Off the Press! 📰</h2>
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-05/2026-05-08" title="AI News Daily 2026/05/08" subtitle="OpenAI rolls out real-time simultaneous interpretation model & API, Genesis" icon="calendar" >}}
+{{< card link="/en/2026-06/2026-06-29" title="AI News Daily 2026/06/29" subtitle="''" icon="calendar" >}}
+  {{< card link="/en/2026-06/2026-06-28" title="AI News Daily 2026/06/28" subtitle="''" icon="calendar" >}}
+  {{< card link="/en/2026-05/2026-05-08" title="AI News Daily 2026/05/08" subtitle="OpenAI rolls out real-time simultaneous interpretation model & API, Genesis" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-07" title="AI News Daily 2026/05/07" subtitle="Claude launches Agent Dream feature, Claude rolls out Managed Agent functionality," icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-06" title="AI News Daily 2026/05/06" subtitle="OpenAI drops GPT-5.5 Instant, agent smartphone revealed, MediaTek to" icon="calendar" >}}
   {{< card link="/en/2026-05/2026-05-05" title="AI News Daily 2026/05/05" subtitle="OpenAI reworks WebRTC low-latency voice architecture, FLUX launches hyperrealistic" icon="calendar" >}}
-  {{< card link="/en/2026-05/2026-05-04" title="AI News Daily 2026/05/04" subtitle="Anthropic's annualized revenue blasts past $44 billion, with official" icon="calendar" >}}
-  {{< card link="/en/2026-05/2026-05-03" title="AI News Daily 2026/05/03" subtitle="Holographic interaction with millisecond response, JEPA World Model breakthrough," icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -50,13 +50,13 @@ Hexi 2077's AI News Hub
 {{% steps %}}
 
 <h3>1. Build a Big-Picture View 🌐</h3>
-The [AI Weekly](/en/blog/weekly/)? It's seriously your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Get ready to supercharge your learning, fast!
+The [AI Weekly](/en/blog/weekly/) is seriously your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Get ready to supercharge your learning, fast!
 
 <h3>2. Stay in Daily Sync 🗓️</h3>
-The [AI Daily Archive](/en/2026-05/2026-05-08)? It's your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat!
+The [AI Daily Archive](/en/2026-06/2026-06-29) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat!
 
 <h3>3. Explore Deeper Practice 🔬</h3>
-The [Blog](/en/blog/)? It's your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru!
+The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru!
 
 {{% /steps %}}
 
