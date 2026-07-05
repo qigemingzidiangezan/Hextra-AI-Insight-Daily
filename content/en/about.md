@@ -4,23 +4,24 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 He Xi 2077 / justlovemaki
 
-> A decade of code, cool at the fingertips, yet a restless heart churned.
-> Then, the AI thunder broke! A fierce vow to conquer the clouds was born.
+#### 👋 何夕2077 / justlovemaki
 
-#### 💡 My Code Philosophy
+> 十载代码指尖凉，胸中块垒郁未扬。
+> 忽闻智能风雷动，誓向云天搏一场。
 
-> Technology for the people.
+#### 🚀 我的代码哲学
 
-#### 🌟 Featured Projects
+> 技术为人民服务
 
-*   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   AIClient-2-API is a powerful API proxy service that takes client-side-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro, and more) and wraps them into a local OpenAI-compatible interface. It also supports account pool management, intelligent polling, automatic failover, and system prompt management.
-*   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   OpenClaw-Docker-CN-IM is an integrated Docker image for OpenClaw China IM plugins. It comes pre-installed and configured with plugins for mainstream Chinese IM platforms such as Feishu, DingTalk, QQ Bot, and WeChat Work, enabling quick deployment of a multi-platform AI robot gateway.
-*   Wanna see more? Check out my [GitHub](https://github.com/justlovemaki) for all the juicy project details!
+#### ✨ 代表作
 
-#### 🌱 What I'm Digging Into Now
+*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
+*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
+*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
 
-LLM applications and website SEO are totally my jam right now! I'm actively diving deep into learning and hands-on practice with both.
+#### 🌱 当前探索
+
+对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
