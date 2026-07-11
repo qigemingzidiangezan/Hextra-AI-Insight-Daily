@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-07/2026-07-10" title="AI News Daily 2026/07/10" subtitle="''" icon="calendar" >}}
+{{< card link="/en/2026-07/2026-07-11" title="AI News Daily 2026/07/11" subtitle="''" icon="calendar" >}}
+  {{< card link="/en/2026-07/2026-07-10" title="AI News Daily 2026/07/10" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-09" title="AI News Daily 2026/07/09" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-08" title="AI News Daily 2026/07/08" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-07" title="AI News Daily 2026/07/07" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-06" title="AI News Daily 2026/07/06" subtitle="''" icon="calendar" >}}
-  {{< card link="/en/2026-07/2026-07-05" title="AI News Daily 2026/07/05" subtitle="''" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/)? That's seriously your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Get ready to supercharge your learning, fast! 💡
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-07/2026-07-10)? That's your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ⚡
+The [AI Daily Archive](/en/2026-07/2026-07-11)? That's your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ⚡
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/)? That's your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! 🤓
