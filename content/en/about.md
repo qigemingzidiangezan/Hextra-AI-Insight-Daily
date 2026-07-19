@@ -4,25 +4,23 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 He Xi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> Ten years of coding, fingertips gone chill,
-> My heart's frustrations, stuck and standing still.
-> Then, the AI storm, a thunderous roar I hear,
-> I swear to wrestle the clouds, conquer all fear!
+> A decade of code, fingertips now cool, yet a fire in my soul longed to ignite.
+> Then, the AI storm broke! Time to jump in and conquer the digital sky. ⚡️
 
-#### My Code Philosophy 🚀
+#### My Code Philosophy
 
-> Tech for the win, serving the people!
+> Tech for the People!
 
-#### My Masterpieces ✨
+#### Featured Projects
 
 *   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   AIClient-2-API? It's a powerhouse API proxy service! It wraps up client-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, and Kiro) into a slick local OpenAI-compatible interface. Plus, it's got your back with account pool management, smart polling, automatic failover, and even system prompt management. Pretty neat, huh?
+    *   **AIClient-2-API** ✨ is a powerful API proxy service that wraps up client-only large language model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro) into a sweet local OpenAI-compatible interface. It's packed with features like account pool management, smart polling, auto-failover, and system prompt management.
 *   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   Meet OpenClaw-Docker-CN-IM – your go-to integrated Docker image for OpenClaw China IM plugins. It comes pre-loaded and configured with all the hot Chinese IM platforms like Feishu, DingTalk, QQ Robot, and WeChat Work. Get ready for super-fast deployment of multi-platform AI chatbot gateways!
-*   Wanna see more cool stuff? Peep my [GitHub](https://github.com/justlovemaki)!
+    *   **OpenClaw-Docker-CN-IM** 🤖 is an integrated Docker image for OpenClaw's Chinese IM plugins. This bad boy comes pre-loaded and configured with all the essentials for major Chinese IM platforms – Feishu, DingTalk, QQ Robot, WeChat Work – letting you quickly deploy multi-platform AI robot gateways.
+*   Wanna see more? Dive into my [GitHub](https://github.com/justlovemaki) for all the juicy project details! 👉
 
-#### Current Explorations 🌱
+#### Currently Exploring
 
-What am I up to now? I'm totally geeking out over LLM applications and website SEO. Seriously, I'm diving deep into learning and getting hands-on experience!
+My current explorations? I'm super hyped about LLM applications and website SEO! 🚀 Actively diving deep, learning the ropes, and getting hands-on with practical stuff in these areas.
