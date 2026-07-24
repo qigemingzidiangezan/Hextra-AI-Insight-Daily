@@ -5,38 +5,58 @@ sidebar:
   exclude: true
 ---
 # Terms of Service
+
 *Effective Date: June 1, 2025*
 
 ---
 
-Hey there! Welcome to **ai.hubtoday** (we'll call it "the Site" or "we" from now on). Before you dive into using our services, please take a moment to carefully read these Terms of Service. By accessing or using the Site, you're agreeing to be bound by these terms. Cool?
+Hey there! Welcome to **ai.hubtoday** (we'll just call it 'the Site' or 'us' from now on). Before you dive into all the cool stuff, please take a moment to read these Terms of Service. By using or even just peeking at our Site, you're saying 'Yep, I agree!' to everything here.
 
-## 1. What We're All About
-The Site is your go-to for awesome paid subscription content and membership services. Think of it as your hub for exclusive goodies like blog posts, special resources, e-books, and lively community interactions. Just a heads-up: some of this cool stuff is only for our subscribed members! ✨
+## 1. Service Overview
 
-## 2. Your Account & Signing Up
-To snag an account, you'll need to provide a valid email address and set up a password. Your account is your responsibility, so keep it secure and own all the activities that happen under it! **Heads up:** sharing or transferring your account is a big no-no. If you ever violate these terms, the Site reserves the right to suspend or even terminate your account. We don't mess around! 🚫
+So, what's the deal with **our services**? Well, we hook you up with paid subscription content and exclusive member perks ✨, including (but definitely not limited to) blog posts, special resources, e-books, and awesome community interaction. Just a heads-up: some of these goodies are only for our subscribed users!
+
+## 2. User Registration & Accounts
+
+- To snag an account, **users** need to provide a valid email address and set up a password.
+- **Your account**? It's your responsibility! You're totally on the hook for its security and everything that happens with it. And seriously, **NO** transferring or sharing your account – that's a big no-no 🚫.
+- **The Site** has the right to hit pause or even outright terminate your account if you don't play by these rules.
 
 ## 3. Paid Subscription Services
-Our paid subscription services are billed monthly or annually, with all costs clearly shown on the checkout page. Rest easy knowing that all payments go through secure third-party platforms like Stripe and PayPal – the Site never stores your payment info. Your subscription will **auto-renew**, so make sure to cancel before your current billing cycle ends if you want to stop.
 
-**Our 14-Day Refund Policy:** First-time subscribers, if you're not totally stoked with our services within 14 days of purchase, you can totally ask for a full refund! Just hit us up at the contact email listed at the end of these terms and tell us why you're bouncing. Each user gets one shot at this refund, so make it count! After 14 days, or if you're not a first-time subscriber, all payments are **non-refundable** unless the law absolutely says otherwise. No take-backsies!
+- **Subscription services** are billed either monthly or annually, and you'll see all the costs upfront on the checkout page.
+- **All payments** zoom through third-party platforms (think Stripe, PayPal, etc.). We don't ever store your sensitive payment info here, so you're safe!
+- **Your subscription** will totally **auto-renew** 🔄 unless you give us the heads-up to cancel before your current billing cycle wraps up.
+- **Our 14-day refund policy** 💰 is pretty sweet: if you're a first-timer and not totally thrilled with our service within 14 days of your purchase, you can snag a full refund. Just hit us up via the contact email at the end of these terms and tell us why. Heads up: each user gets only one shot at this refund. After 14 days, or if it's not your first rodeo with a subscription, then payments are generally **non-refundable**, unless the law absolutely forces our hand.
 
-## 4. Our Content & Your Rights (aka IP Stuff)
-Listen up: all original content on the Site is **copyrighted by us (hubtoday)**. That means no copying, reprinting, or using it for commercial purposes without our express authorization – seriously. You're granted a **non-exclusive, non-transferable right** to access our content strictly for personal learning and reading. Think of it as your personal VIP pass! If you're eyeing it for commercial use or need to quote us heavily, please hit up the Site to get our permission. We're usually pretty chill, but authorization is key! 😉
+## 4. Content Use & Intellectual Property
 
-## 5. Playing Nice: User Conduct
-Okay, let's talk about behavior. **You absolutely cannot** upload, post, or spread any content that's illegal, harassing, fake, offensive, or infringes on anyone else's rights. Period. Also, **don't even think about** trying to mass download, scrape, or hack our member content using any tech trickery. The Site has the right to yank any inappropriate content and **ban users who don't play by the rules**. Don't make us unleash the banhammer! 🔨
+- **All original content** here is **copyrighted by the Site (hubtoday)** ©. Please don't copy, reproduce, or use it for commercial purposes without getting our permission first – that's a big no-go.
+- **You, as a user**, only get a **non-exclusive, non-transferable access right** to our content, strictly for your personal learning and reading pleasure.
+- **Thinking about commercial use or quoting a lot**? Please reach out to the Site to get proper authorization. Thanks!
 
-## 6. Service Changes & Unexpected Hiccups
-Just so you know, we reserve the right to change, pause, or totally stop any part or all of our services at any time, without a heads-up. Surprises, anyone? 😉 If content becomes temporarily unavailable because of stuff we can't control – like force majeure, server meltdowns, or third-party service interruptions – the Site **won't be on the hook for any compensation**. Bummer, we know!
+## 5. User Conduct
 
-## 7. Disclaimer: A Quick Heads-Up!
-The info we dish out on the Site is purely for reference, cool? It absolutely **does not constitute** any kind of professional advice (think financial, legal, medical, etc.), so don't treat it like it does. And for any direct or indirect losses you might bump into from using the Site's content or services, the Site is **not responsible at all**. Just keeping it real! 🤷‍♀️
+- **It's strictly forbidden** 🛑 to upload, post, or spread anything illegal, harassing, false, offensive, or content that infringes on anyone else's rights. Just don't do it.
+- **Don't even think about** trying to bulk download, scrape, or hack into our member-only content using any technical trickery. Seriously, don't.
+- **The Site** has the power to yank any inappropriate content and will definitely **ban** any **users** who break these rules.
 
-## 8. The Legal Stuff (Governing Law)
-Alright, for all you legal eagles out there: These Terms of Service are governed by, and interpreted according to, the laws of the State of California, USA, without even thinking about its conflict of law principles. So yeah, California law rules! 🇺🇸 If any beef pops up from or related to these terms, we both agree to try and sort it out amicably first. If we can't hug it out, you agree to submit to the exclusive jurisdiction of the courts located in Santa Clara County, California. Let's hope it doesn't come to that! 🤞
+## 6. Service Changes & Interruption
 
-## 9. Got Questions? Hit Us Up!
-If you've got any burning questions about these terms, just hit us up using the deets below. Don't be shy!
+- **We** totally reserve the right to change, hit pause on, or even fully terminate any or all of our services whenever we need to, without giving you a heads-up ⚠️. Just so you know!
+- **The Site** won't be on the hook for any compensation if our content is temporarily unreachable due to stuff like force majeure, server meltdowns, or third-party service hiccups. These things happen, unfortunately!
+
+## 7. Disclaimer
+
+- **The information provided by this Site** is just for kicks and giggles (aka reference only!). It **does NOT** count as any kind of professional advice – whether it's financial, legal, medical, or anything else.
+- **The Site** is absolutely **NOT responsible** ⛔ for any direct or indirect losses you might rack up from using our content or services. Just a friendly warning!
+
+## 8. Governing Law
+
+- **These Terms of Service** are governed by, and we'll interpret them according to, the laws of the State of California, USA 🇺🇸. We're not sweating over any conflict of laws principles here.
+- **Any disputes** that pop up because of these terms or are related to them? We should totally try to sort them out friendly first! If we can't hug it out, you agree to take things to the courts with jurisdiction in Santa Clara County, California.
+
+## 9. Contact Info
+
+- **Got questions** about these terms? Just hit us up using the deets below:
 - 📧 **Email**: [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
