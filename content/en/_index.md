@@ -21,13 +21,13 @@ Hexi 2077's AI News Hub
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? It's genuinely super simple! We're all about dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff, promise! ✨
+  Our philosophy? It's genuinely super simple! We're all about dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff, promise!
 {{< /callout >}}
 
 ## Our Core Values
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! We're not just cranking up the volume; instead, we're slicing through all that daily digital noise to pinpoint what *really* matters from a gazillion updates. This approach seriously saves you precious hours, for real! 🎧" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! We're not just cranking up the volume; instead, we're slicing through all that daily digital noise to pinpoint what *really* matters from a gazillion updates. This approach seriously saves you precious hours, for real! 🔍" >}}
   {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight? That's what we deliver, plain and simple! We don't just translate stuff; instead, we dish out razor-sharp analysis, giving you the actual lowdown on all those bleeding-edge AI developments. Seriously, for the real scoop, this is your absolute go-to! 🧠" >}}
   {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is absolutely key for us! We're tracking how AI tools are *really* shaking things up out there in the wild, helping you snag genuine opportunities in the productivity revolution. It's totally time to level up your game, big time! 💪" >}}
 {{< /cards >}}
@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-07/2026-07-28" title="AI News Daily 2026/07/28" subtitle="''" icon="calendar" >}}
+{{< card link="/en/2026-07/2026-07-29" title="AI News Daily 2026/07/29" subtitle="''" icon="calendar" >}}
+  {{< card link="/en/2026-07/2026-07-28" title="AI News Daily 2026/07/28" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-27" title="AI News Daily 2026/07/27" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-26" title="AI News Daily 2026/07/26" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-25" title="AI News Daily 2026/07/25" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-24" title="AI News Daily 2026/07/24" subtitle="''" icon="calendar" >}}
-  {{< card link="/en/2026-07/2026-07-23" title="AI News Daily 2026/07/23" subtitle="''" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Seriously, get ready to supercharge your learning, stat! 📚
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-07/2026-07-28) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ⏰
+The [AI Daily Archive](/en/2026-07/2026-07-29) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ⏰
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! 💻
