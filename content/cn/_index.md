@@ -13,7 +13,7 @@ AI 资讯日报
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-07/2026-07-29" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-07/2026-07-30" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/qigemingzidiangezan" >}}🤝 GitHub{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ AI 资讯日报
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-07/2026-07-30" title="AI资讯日报 2026/7/30" subtitle="AI内容摘要 今日AI领域动态热烈，科技巨头纷纷加速布局。微软不仅强化其自有AI模型及工具开发，直接挑战OpenAI和Anthropic，并确认将推出Copilot“超级应用”。同时，Meta CEO扎克伯格预测个人AI代理将在五年内普及，..." icon="calendar" >}}
 {{< card link="/2026-07/2026-07-29" title="AI资讯日报 2026/7/29" subtitle="AI内容摘要 今日AI领域动态频频，安全与基础设施成为核心焦点。Cyera斥资10亿美元收购Oasis Security以强化AI代理安全，Sam Altman因安全事件表态愿放缓AI发展，多位AI领袖联名呼吁政府监管自动化AI，凸显行业对..." icon="calendar" >}}
 {{< card link="/2026-07/2026-07-28" title="AI资讯日报 2026/7/28" subtitle="AI内容摘要 今日AI领域动态聚焦安全与地缘竞争。Anthropic CEO Dario Amodei表达了对中国AI发展的担忧，恰逢中国正积极推广其顶尖开源AI模型。同时，微软发布首个AI网络安全模型，并与Nvidia等成立AI安全联盟以..." icon="calendar" >}}
 {{< card link="/2026-07/2026-07-27" title="AI资讯日报 2026/7/27" subtitle="AI内容摘要 今日AI领域动态频频，Anthropic发布新一代模型Opus 5，Meta升级其AI聊天机器人为助理模式，OpenAI也推出了新型AI键盘。与此同时，AI行业安全问题受到关注，OpenAI遭遇自主智能体网络攻击引发Huggi..." icon="calendar" >}}
 {{< card link="/2026-07/2026-07-26" title="AI资讯日报 2026/7/26" subtitle="AI内容摘要 近期AI领域动态活跃，一方面，Anthropic发布更具性价比的Opus 5模型，Meta升级其AI聊天机器人为生产力助手，OpenAI推出AI键盘，Midjourney和Cognition也通过收购强化AI能力，新AI实验室..." icon="calendar" >}}
 {{< card link="/2026-07/2026-07-25" title="AI资讯日报 2026/7/25" subtitle="AI内容摘要 今日AI领域动态丰富且多元。模型方面，Anthropic 发布了更具性价比的Opus 5，而Meta 则致力于将其AI聊天机器人升级为更全面的助手。市场策略上，Cognition 收购Poke以强化AI个性，Midjourne..." icon="calendar" >}}
-{{< card link="/2026-07/2026-07-24" title="AI资讯日报 2026/7/24" subtitle="AI内容摘要 今日AI领域动态聚焦于产品功能升级与市场竞争。OpenAI全面开放ChatGPT Health，Anthropic强化Claude语音模式，亚马逊Alexa Plus亦获AI更新，提升智能助手能力。硬件方面，AMD推出AI机架..." icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ AI 资讯日报
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-07/2026-07-29)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-07/2026-07-30)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
