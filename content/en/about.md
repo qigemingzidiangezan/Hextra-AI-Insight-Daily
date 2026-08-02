@@ -4,27 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
-#### 👋 He Xi 2077 / justlovemaki
+#### Hexi 2077 / justlovemaki
 
-> Ten years coding, fingers a bit numb,
-> Still got some fire, waiting to overcome.
-> Now AI's booming, a thunderous sound,
-> Gonna jump in, conquer new ground! 🚀
+> A decade of code, chilling my fingertips; unvoiced grievances, stirring deep. Then, the AI thunder rolled in – now I'm geared up for a battle in the clouds!
 
-#### 🚀 My Coding Philosophy
+#### My Code Philosophy
 
-> Tech for the people.
+> Tech for the people, always!
 
-#### ✨ My Masterpieces
+#### Key Projects
 
 *   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   AIClient-2-API is a super powerful API proxy service. It takes client-only large model capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro, etc.) and wraps 'em up into local OpenAI-compatible interfaces. Plus, it's got account pool management, smart polling, automatic failover, and system prompt management baked right in! 🔥
-
+    *   This bad boy is a powerful API proxy service. It takes those client-only large language model capabilities (like Gemini CLI, Antigravity, Qwen Code, Kiro) and wraps 'em up into a local, OpenAI-compatible interface. What's more, it also handles account pool management, intelligent polling, automatic failover, and system prompt management. Talk about full-featured!
 *   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   OpenClaw-Docker-CN-IM? It's an integrated Docker image packing OpenClaw's Chinese IM plugins. We're talking Feishu, DingTalk, QQ Bot, WeChat Work – all pre-installed and configured. This baby lets you quickly deploy a multi-platform AI bot gateway. Super handy! 🤖
+    *   This is the integrated Docker image you need for OpenClaw's Chinese IM plugins. It comes pre-loaded and configured with all the mainstream Chinese IM platforms – Feishu, DingTalk, QQ Bot, and WeChat Work. This means you can quickly deploy a multi-platform AI robot gateway, making setup a breeze.
+*   Want more deets on my projects? My [GitHub](https://github.com/justlovemaki) has got you covered!
 
-*   Wanna see more projects? Peep my [GitHub](https://github.com/justlovemaki).
+#### What I'm Diving Into Now
 
-#### 🌱 Current Explorations
-
-LLM applications and website SEO? They're totally my jam right now! I'm super into learning and getting hands-on with both. 🤓
+Currently, LLM applications and website SEO have really piqued my interest. I'm actively deep-diving into learning and getting some hands-on experience in these fields!

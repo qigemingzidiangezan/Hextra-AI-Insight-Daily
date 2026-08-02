@@ -36,12 +36,12 @@ Hexi 2077's AI News Hub
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
-{{< card link="/en/2026-08/2026-08-01" title="AI News Daily 2026/08/01" subtitle="''" icon="calendar" >}}
+{{< card link="/en/2026-08/2026-08-02" title="AI News Daily 2026/08/02" subtitle="''" icon="calendar" >}}
+  {{< card link="/en/2026-08/2026-08-01" title="AI News Daily 2026/08/01" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-31" title="AI News Daily 2026/07/31" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-30" title="AI News Daily 2026/07/30" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-29" title="AI News Daily 2026/07/29" subtitle="''" icon="calendar" >}}
   {{< card link="/en/2026-07/2026-07-28" title="AI News Daily 2026/07/28" subtitle="''" icon="calendar" >}}
-  {{< card link="/en/2026-07/2026-07-27" title="AI News Daily 2026/07/27" subtitle="''" icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ Hexi 2077's AI News Hub
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Seriously, get ready to supercharge your learning, stat! 🚀
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-08/2026-08-01) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ⚡
+The [AI Daily Archive](/en/2026-08/2026-08-02) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ⚡
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! 🛠️
@@ -75,6 +75,6 @@ The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especi
 <h2>Let's Connect!</h2>
 
 {{< cards cols="2" >}}
-  {{< card link="https://github.com/justlovemaki" title="Business Contact" subtitle="Business Contact: Got a brilliant partnership idea? Wanna swap resources? Or just want to hit us up with feedback? Seriously, don't be shy—reach out to us! ✉️" icon="mail" >}}
-  {{< card link="/en/blog/index.xml" title="RSS Subscription" subtitle="RSS Subscription: Craving the freshest updates the instant they land? Then totally get hooked up with our RSS feed! ✨" icon="globe-alt" >}}
+  {{< card link="https://github.com/justlovemaki" title="Business Contact" subtitle="Business Contact: Got a brilliant partnership idea? Wanna swap resources? Or just want to hit us up with feedback? Seriously, don't be shy—reach out to us! 📧" icon="mail" >}}
+  {{< card link="/en/blog/index.xml" title="RSS Subscription" subtitle="RSS Subscription: Craving the freshest updates the instant they land? Then totally get hooked up with our RSS feed! 🔔" icon="globe-alt" >}}
 {{< /cards >}}
