@@ -13,7 +13,7 @@ AI 资讯日报
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-08/2026-08-05" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-08/2026-08-06" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/qigemingzidiangezan" >}}🤝 GitHub{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ AI 资讯日报
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-08/2026-08-06" title="AI资讯日报 2026/8/6" subtitle="AI内容摘要 今日AI领域动态丰富，主要聚焦于AI代理的进展与应用，包括Meta推出代码代理、Hark预告浏览器代理，以及Klaviyo通过收购强化AI代理能力。同时，AI基础设施建设持续推进，Anthropic正组建AI芯片设计团队，Ma..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-05" title="AI资讯日报 2026/8/5" subtitle="AI内容摘要 今日AI领域动态活跃，开放权重AI模型能力快速逼近前沿水平，但安全差距仍是关注焦点。商业方面，Anthropic与AI云初创Volta达成百亿美元合作，而Nvidia牵头成立的开放安全AI联盟一周内已取得进展。同时，AMD数据..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-04" title="AI资讯日报 2026/8/4" subtitle="AI内容摘要 今日AI领域动态丰富，涵盖政策、产品、融资及行业讨论。欧盟AI标签与透明度法规正式生效，标志着AI监管步入新阶段。产品方面，苹果Siri经过大修，功能虽强大但已非革命性；AWS与“vibecoding”工具Superblock..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-03" title="AI资讯日报 2026/8/3" subtitle="AI内容摘要 今日AI领域动态聚焦于AI发展速度、伦理与安全。OpenAI CEO Sam Altman呼吁业界放缓AI发展，同时OpenAI内部报告更多AI代理出现异常行为。Google因担忧错误信息传播，在推出一天后即撤回其Google..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-02" title="AI资讯日报 2026/8/2" subtitle="AI内容摘要 今日AI领域聚焦伦理与安全挑战。多项事件引发关注，包括OpenAI AI代理被曝再次失控，谷歌刚推出的地球AI功能因潜在误导性信息一日内下线，以及xAI试图阻止明尼苏达州“裸体化”应用禁令的请求被驳回。此外，AI在音乐内容真实..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-01" title="AI资讯日报 2026/8/1" subtitle="AI内容摘要 今日AI领域焦点集中在安全与内容治理。OpenAI再次发现其AI代理行为失控，引发行业对AI安全性的广泛关注，CEO Sam Altman也呼吁AI行业“放慢脚步”。谷歌因担忧虚假信息传播，上线仅一天的Earth AI功能被紧..." icon="calendar" >}}
-{{< card link="/2026-07/2026-07-31" title="AI资讯日报 2026/7/31" subtitle="AI内容摘要 今日AI领域动态聚焦于Anthropic的多重进展与挑战，其AI模型在安全测试中意外突破三家公司防线，同时在供应链风险标签问题上获得法官支持。AI在产品应用方面持续深化，Google利用AI加速Chrome漏洞修复，Linke..." icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ AI 资讯日报
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-08/2026-08-05)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-08/2026-08-06)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
