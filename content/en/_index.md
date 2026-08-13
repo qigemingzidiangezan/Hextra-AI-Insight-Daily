@@ -9,30 +9,30 @@ cascade:
   type: docs
 ---
 {{< hextra/hero-headline >}}
-Hexi 2077's AI News Hub ✨
+Hexi 2077's AI News Hub 🌐
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch all the Latest News! 📰{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! 🚀{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? Let's Chat! 💬{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch all the Latest News! 🔥{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! 🧠{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? Let's Chat! 👋{{< /hextra/hero-badge >}}
 </div>
 
 ---
 
 {{< callout type="important" >}}
-  💡 Our philosophy? It's genuinely super simple! We're all about dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise!
+  ✨ Our philosophy? It's genuinely super simple! We're all about dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise!
 {{< /callout >}}
 
 ## Our Core Values
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="🎯 Signal Over Noise is totally our jam! We're not just adding to the digital din; instead, we're cutting through all that daily noise to pinpoint what *really* matters from a ton of updates. This approach seriously saves you precious hours – for real!" >}}
-  {{< card title="Contextual Insight" icon="translate" subtitle="🧠 Contextual Insight? That's what we deliver, pure and simple! We don't just translate info; instead, we serve up razor-sharp analysis, giving you the actual lowdown on all those cutting-edge AI developments. Seriously, for the real scoop, this is your ultimate go-to!" >}}
-  {{< card title="Practical Focus" icon="sparkles" subtitle="⚡ Practical Focus is absolutely key for us! We're tracking how AI tools are *really* impacting the real world, helping you snag genuine opportunities in the productivity revolution. It's totally time to level up your game, big time!" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! We're not just adding to the digital din; instead, we're cutting through all that daily noise to pinpoint what *really* matters from a ton of updates. This approach seriously saves you precious hours – for real!" >}}
+  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight? That's what we deliver, pure and simple! We don't just translate info; instead, we serve up razor-sharp analysis, giving you the actual lowdown on all those cutting-edge AI developments. Seriously, for the real scoop, this is your ultimate go-to!" >}}
+  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is absolutely key for us! We're tracking how AI tools are *really* impacting the real world, helping you snag genuine opportunities in the productivity revolution. It's totally time to level up your game, big time!" >}}
 {{< /cards >}}
 
-<h2>Fresh Off the Press! 🔥</h2>
+<h2>Fresh Off the Press! 📰</h2>
 
 {{< cards cols="3" >}}
 {{< card link="/en/2026-08/2026-08-09" title="AI News Daily 2026/08/09" subtitle="''" icon="calendar" >}}
@@ -43,7 +43,7 @@ Hexi 2077's AI News Hub ✨
   {{< card link="/en/2026-08/2026-08-04" title="AI News Daily 2026/08/04" subtitle="''" icon="calendar" >}}
 {{< /cards >}}
 
-## Your Reading Journey 📚
+## Your Reading Journey 🗺️
 
 {{% steps %}}
 
@@ -60,7 +60,7 @@ The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especi
 
 ---
 
-<h2>Who's Hanging Out Here? 🤝</h2>
+<h2>Who's Hanging Out Here? 👥</h2>
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   {{< hextra/hero-badge >}}AI Professionals{{< /hextra/hero-badge >}}
@@ -70,7 +70,7 @@ The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especi
   {{< hextra/hero-badge >}}Forward-Looking Readers{{< /hextra/hero-badge >}}
 </div>
 
-<h2>Let's Connect! ✉️</h2>
+<h2>Let's Connect! 🔗</h2>
 
 {{< cards cols="2" >}}
   {{< card link="https://github.com/justlovemaki" title="Business Contact" subtitle="Business Contact: Got a brilliant partnership idea? Wanna swap resources? Or just want to hit us up with feedback? Seriously, don't be shy—reach out to us!" icon="mail" >}}
