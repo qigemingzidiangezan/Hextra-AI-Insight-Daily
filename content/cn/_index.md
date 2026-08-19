@@ -13,7 +13,7 @@ AI 资讯日报
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-08/2026-08-18" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-08/2026-08-19" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/qigemingzidiangezan" >}}🤝 GitHub{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ AI 资讯日报
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-08/2026-08-19" title="AI资讯日报 2026/8/19" subtitle="AI内容摘要 今日AI领域动态频频。在安全方面，OpenAI针对Hugging Face数据泄露事件加强了模型开发与训练后的安全防护，并为青少年推出了更安全的ChatGPT版本。市场表现上，AI硬件公司Etched估值飙升至210亿美元，A..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-18" title="AI资讯日报 2026/8/18" subtitle="AI内容摘要 今日AI领域资本市场活跃，Anthropic年化收入飙升，Groq和Wispr获得大额融资，Stripe拟高价收购OpenRouter，Nvidia也大手笔投资数据中心。与此同时，谷歌吸纳AI自动化初创团队，而亚马逊为训练模型..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-17" title="AI资讯日报 2026/8/17" subtitle="AI内容摘要 今日AI领域，科技巨头动作频频，Stripe与SpaceX相继完成对AI初创公司的收购，预示着行业整合加速。与此同时，AI信任危机与伦理安全问题持续升温，Grok被曝出不当内容生成事件，OpenAI解散其AI安全团队引发广泛关..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-16" title="AI资讯日报 2026/8/16" subtitle="AI内容摘要 今日AI领域，围绕内容安全与伦理的讨论尤为突出，Grok被指控滥用，而Anthropic和Google则分别更新了其AI生成内容的水印策略。在产品与合作方面，Meta发布了开源AI模型Glimmer，SpaceX完成了对AI编..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-15" title="AI资讯日报 2026/8/15" subtitle="AI内容摘要 今日AI领域动态活跃，Google 宣布用户可移除AI生成内容的可见水印，提升用户体验。Meta 推出开源模型Glimmer，并由Mark Zuckerberg倡导AI普惠大众。OpenAI 发布GPT5.6 Sol的“极速”..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-14" title="AI资讯日报 2026/8/14" subtitle="AI内容摘要 今日AI领域动态频频，OpenAI在产品和合作上动作不断，不仅推出了GPT5.6 Sol的“超高速”模式，速度提升14倍，并与IBM深化企业AI合作，同时公司高管团队持续调整。市场方面，Databricks完成巨额融资，估值高..." icon="calendar" >}}
-{{< card link="/2026-08/2026-08-12" title="AI资讯日报 2026/8/12" subtitle="AI内容摘要 今日AI领域动态频频，Google Gemini和ChatGPT用户量双双突破10亿大关，显示AI应用普及加速。同时，由xAI联合创始人创立的River AI在成立两月内即获General Catalyst领投的11亿美元巨额..." icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ AI 资讯日报
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-08/2026-08-18)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-08/2026-08-19)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
