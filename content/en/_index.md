@@ -49,7 +49,7 @@ cascade:
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get drowned in fragmented info. Seriously, get ready to supercharge your learning, stat! ⚡
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-08/2026-08-19) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! 🔥
+The [AI Daily Archive](/en/2026-08/2026-08-20) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day keeps you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! 🔥
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. Go ahead, unleash your inner tech guru! 🧠
