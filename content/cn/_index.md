@@ -13,7 +13,7 @@ AI 资讯日报
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-08/2026-08-22" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-08/2026-08-23" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/qigemingzidiangezan" >}}🤝 GitHub{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ AI 资讯日报
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-08/2026-08-23" title="AI资讯日报 2026/8/23" subtitle="AI内容摘要 今日AI领域动态聚焦于安全性与前沿应用。OpenAI呼吁加强AI安全法案，而一项研究揭示领先AI实验室在应对“失控模型”方面准备不足，Anthropic的Opus 4.6模型也因内容生成问题引发关注。在技术突破方面，DeepM..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-22" title="AI资讯日报 2026/8/22" subtitle="AI内容摘要 今日AI领域动态聚焦于基础设施建设、模型治理与市场竞争。NVIDIA持续投资AI数据中心并与Cloverleaf达成合作，同时有研究指出AI代理的效能提升关键在于“衔接层”而非模型本身。AI训练数据需求激增，初创公司Micro..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-21" title="AI资讯日报 2026/8/21" subtitle="AI内容摘要 今日AI领域动态丰富，AI训练数据市场持续火爆，初创公司Micro1营收飙升。在企业级AI应用竞争中，OpenAI正逐步追赶Anthropic，但企业用户对模型的“忠诚度”仍待观察。产品方面，ChatGPT功能进一步扩展，可集..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-20" title="AI资讯日报 2026/8/20" subtitle="AI内容摘要 今日AI领域动态频频，巨头们在产品、收购和竞争策略上均有大动作。Stripe确认收购AI路由平台OpenRouter，而Cognition则否认了SpaceX的收购传闻。在产品更新方面，Google Gemini和Meta A..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-19" title="AI资讯日报 2026/8/19" subtitle="AI内容摘要 今日AI领域动态频频。在安全方面，OpenAI针对Hugging Face数据泄露事件加强了模型开发与训练后的安全防护，并为青少年推出了更安全的ChatGPT版本。市场表现上，AI硬件公司Etched估值飙升至210亿美元，A..." icon="calendar" >}}
 {{< card link="/2026-08/2026-08-18" title="AI资讯日报 2026/8/18" subtitle="AI内容摘要 今日AI领域资本市场活跃，Anthropic年化收入飙升，Groq和Wispr获得大额融资，Stripe拟高价收购OpenRouter，Nvidia也大手笔投资数据中心。与此同时，谷歌吸纳AI自动化初创团队，而亚马逊为训练模型..." icon="calendar" >}}
-{{< card link="/2026-08/2026-08-17" title="AI资讯日报 2026/8/17" subtitle="AI内容摘要 今日AI领域，科技巨头动作频频，Stripe与SpaceX相继完成对AI初创公司的收购，预示着行业整合加速。与此同时，AI信任危机与伦理安全问题持续升温，Grok被曝出不当内容生成事件，OpenAI解散其AI安全团队引发广泛关..." icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ AI 资讯日报
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-08/2026-08-22)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-08/2026-08-23)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
