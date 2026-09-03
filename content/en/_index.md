@@ -19,7 +19,7 @@ cascade:
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? It's genuinely super simple! We're all about dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 💯
+  Our philosophy? It's genuinely super simple! We're all about dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 💖
 {{< /callout >}}
 
 ## Our Core Values
@@ -49,7 +49,7 @@ cascade:
 The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get lost in fragmented info. Seriously, get ready to supercharge your learning, pronto! 🚀
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-09/2026-09-02) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day will keep you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ✨
+The [AI Daily Archive](/en/2026-09/2026-09-03) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day will keep you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat! ✨
 
 <h3>3. Explore Deeper Practice</h3>
 The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. So go ahead, unleash your inner tech guru! 🤓
