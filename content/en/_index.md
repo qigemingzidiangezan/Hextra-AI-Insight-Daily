@@ -46,13 +46,13 @@ cascade:
 {{% steps %}}
 
 <h3>1. Build a Big-Picture View</h3>
-The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get lost in fragmented info. Seriously, get ready to supercharge your learning, pronto! 🚀
+The [AI Weekly](/en/blog/weekly/) is your ultimate starting point if you're just diving into AI! This must-have resource helps you quickly get a handle on key industry shifts, ensuring you won't get lost in fragmented info. Seriously, get ready to supercharge your learning, pronto!
 
 <h3>2. Stay in Daily Sync</h3>
-The [AI Daily Archive](/en/2026-09/2026-09-06) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day will keep you perfectly aligned with the global AI rhythm. ⏰ Keep your edge and never miss a beat!
+The [AI Daily Archive](/en/2026-09/2026-09-07) is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day will keep you perfectly aligned with the global AI rhythm. Keep your edge and never miss a beat!
 
 <h3>3. Explore Deeper Practice</h3>
-The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. So go ahead, unleash your inner tech guru! 💡
+The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. So go ahead, unleash your inner tech guru!
 
 {{% /steps %}}
 
@@ -71,6 +71,6 @@ The [Blog](/en/blog/) is your go-to for deep dives and hands-on practice, especi
 <h2>Let's Connect!</h2>
 
 {{< cards cols="2" >}}
-  {{< card link="https://github.com/justlovemaki" title="Business Contact" icon="mail" subtitle="Business Contact: Got a brilliant partnership idea, wanna swap resources, or just want to hit us up with feedback? Seriously, don't be shy—reach out to us! We'd love to hear from you! 🤝" >}}
-  {{< card link="/en/blog/index.xml" title="RSS Subscription" icon="globe-alt" subtitle="RSS Subscription: Craving the freshest updates the instant they land? Then totally get hooked up with our RSS feed! Don't miss a beat! 🔔" >}}
+  {{< card link="https://github.com/justlovemaki" title="Business Contact" icon="mail" subtitle="Business Contact: Got a brilliant partnership idea, wanna swap resources, or just want to hit us up with feedback? Seriously, don't be shy—reach out to us! We'd love to hear from you!" >}}
+  {{< card link="/en/blog/index.xml" title="RSS Subscription" icon="globe-alt" subtitle="RSS Subscription: Craving the freshest updates the instant they land? Then totally get hooked up with our RSS feed! Don't miss a beat!" >}}
 {{< /cards >}}

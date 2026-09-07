@@ -6,13 +6,13 @@ sidebar:
 ---
 # Contact Me 🤙
 
-Got questions, partnership ideas, or need support? I'm super eager to hear from you and connect! Please feel free to reach out through the channels below.
+Your feedback and inquiries are always welcome! If you have any questions, collaboration interests, or need support, please don't hesitate to reach out to me.
 
-Rest assured, I promise to get back to your emails ASAP. 🚀
+Rest assured, I promise to reply to your emails as quickly as possible.
 
 ---
 
-## **Contact Info** 📞
+## **Contact Info** 📬
 
 *   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
@@ -23,5 +23,5 @@ Rest assured, I promise to get back to your emails ASAP. 🚀
         {{< /cards >}}
 
 *   **Office Hours:**
-    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
     *   (Closed on weekends and public holidays)
