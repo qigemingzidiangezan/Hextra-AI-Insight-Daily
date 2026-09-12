@@ -8,18 +8,18 @@ description: Your daily source for curated AI news & latest artificial intellige
 cascade:
   type: docs
 ---
-{{< hextra/hero-headline >}}Hexi 2077's AI News Hub! ✨{{< /hextra/hero-headline >}}
+{{< hextra/hero-headline >}}Hexi 2077's AI News Hub! 🚀{{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch all the Latest News! 🗞️{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! 📖{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? Let's Chat! 🤝{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch all the Latest News!{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly!{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got Business or Partnership Ideas? Let's Chat!{{< /hextra/hero-badge >}}
 </div>
 
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? It's genuinely super simple! We aim to dish out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 🤞
+  Our philosophy? It's genuinely super simple! We aim to dish out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 👍
 {{< /callout >}}
 
 ## Our Core Values
@@ -30,7 +30,7 @@ cascade:
   {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is absolutely key for us! We're tracking how AI tools are *really* impacting the real world, helping you snag genuine opportunities in the productivity revolution. So, it's totally time to level up your game, big time!" >}}
 {{< /cards >}}
 
-<h2>Fresh Off the Press! ✨</h2>
+<h2>Fresh Off the Press! 📰</h2>
 
 {{< cards cols="3" >}}
 {{< card link="/en/2026-08/2026-08-09" title="AI News Daily 2026/08/09" subtitle="''" icon="calendar" >}}
@@ -68,7 +68,7 @@ The Blog? It's your go-to for deep dives and hands-on practice, especially if yo
   {{< hextra/hero-badge >}}Forward-Looking Readers{{< /hextra/hero-badge >}}
 </div>
 
-<h2>Let's Connect! 👋</h2>
+<h2>Let's Connect! 🤝</h2>
 
 {{< cards cols="2" >}}
   {{< card link="https://github.com/justlovemaki" title="Business Contact" icon="mail" subtitle="Business Contact: Got a brilliant partnership idea, wanna swap resources, or just want to hit us up with feedback? Seriously, don't be shy—reach out to us! We'd love to hear from you!" >}}
