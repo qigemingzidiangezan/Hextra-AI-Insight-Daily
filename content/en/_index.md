@@ -8,7 +8,7 @@ description: Your daily source for curated AI news & latest artificial intellige
 cascade:
   type: docs
 ---
-{{< hextra/hero-headline >}}Hexi 2077's AI News Hub! 🚀{{< /hextra/hero-headline >}}
+{{< hextra/hero-headline >}}Hexi 2077's AI News Hub! ✨{{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch all the Latest News!{{< /hextra/hero-badge >}}
@@ -19,13 +19,13 @@ cascade:
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? It's genuinely super simple! We aim to dish out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 👍
+  Our philosophy? It's genuinely super simple! We aim to dish out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 🤝
 {{< /callout >}}
 
 ## Our Core Values
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! We're not here to just add to the digital din. Instead, we cut through all that daily noise to pinpoint what *truly* matters from a flood of updates. This approach seriously saves you precious hours – no joke!" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! It cuts through all that daily digital din to pinpoint what *truly* matters from a flood of updates, seriously saving you precious hours – no joke! We're definitely not here to just add to the noise." >}}
   {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight is pure and simple, that's what we deliver! We don't just translate info; instead, we serve up razor-sharp analysis, giving you the actual lowdown on all those cutting-edge AI developments. Seriously, if you want the real scoop, this is your ultimate go-to!" >}}
   {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is absolutely key for us! We're tracking how AI tools are *really* impacting the real world, helping you snag genuine opportunities in the productivity revolution. So, it's totally time to level up your game, big time!" >}}
 {{< /cards >}}
