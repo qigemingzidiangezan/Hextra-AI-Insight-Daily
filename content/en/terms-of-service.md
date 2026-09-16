@@ -4,51 +4,59 @@ type: page
 sidebar:
   exclude: true
 ---
+# Terms of Service
 
-# 服务条款
-
-*生效日期：2025年6月1日*
+*Effective Date: June 1, 2025*
 
 ---
 
-欢迎访问 **ai.hubtoday**（以下简称“**本站**”或“**我们**”）。请在使用本站服务之前，仔细阅读以下服务条款。您访问或使用本站即表示您同意并接受本条款。
+Hey there! Welcome to **ai.hubtoday** (we'll call it "**This Site**" or "**We**" from here on out). Before you dive in and use our awesome services, please do us a solid and read through these Terms of Service. By just accessing or using This Site, you're pretty much saying "I'm in!" and agreeing to all these terms.
 
-## 1. 服务简介
-本站为用户提供付费订阅内容和会员服务，包括但不限于博客文章、专属资源、电子书、社区互动等。部分内容仅限订阅用户访问。
+## 1. Service Overview
 
-## 2. 用户注册与账户
-- 用户需提供有效的电子邮件地址和设置密码以注册账户。
-- 用户应对其账户的安全性和所有活动负责，**禁止**将账户转让或共享。
-- 本站有权在用户违反本条款的情况下，**暂停或终止**其账户。
+**This Site** is your go-to hub for all things paid subscription content and membership services! We're talking everything from cool blog posts and exclusive resources to handy e-books and vibrant community interactions. Just a heads-up, some of our super special content is only for our awesome subscribers.
 
-## 3. 付费订阅服务
-- 订阅服务基于月度/年度计费，费用在结算页面明示。
-- 所有付款通过第三方支付平台（如 Stripe、PayPal）完成，本站不存储您的支付信息。
-- 订阅将**自动续费**，除非您在当前计费周期结束前取消。
-- **14天退款政策**：首次订阅服务的用户，自购买之日起14天内，如对服务不满意，可申请全额退款。请通过本条款末尾提供的联系邮箱与我们联系并说明退款原因。每位用户仅限一次退款机会。超过14天或非首次订阅的，除非法律强制规定，付款后**不予退款**。
+## 2. User Registration & Accounts
 
-## 4. 内容使用与知识产权
-- 所有原创内容**版权归本站 (hubtoday) 所有**，未经授权不得复制、转载或用于商业用途。
-- 用户仅获得**非排他、不可转让的访问权**，用于个人学习和阅读。
-- 如需商业用途或大量引用，请联系本站获取授权。
+*   **Users** will need to whip up an account by giving us a valid email address and setting a password.
+*   **Users** are totally responsible for keeping their account secure and for all the happenings under it. Seriously, **don't even think about** transferring or sharing your account with anyone else!
+*   **This Site** has the right to **hit pause on** or even **terminate** a user's account if they ever step out of line and violate these terms.
 
-## 5. 用户行为规范
-- **禁止**上传、发布或传播任何非法、骚扰、虚假、攻击性、侵犯他人权利的内容。
-- **禁止**通过技术手段批量下载、抓取、破解会员内容。
-- 本站有权移除不当内容并**封禁违规用户**。
+## 3. Paid Subscription Services
 
-## 6. 服务变更与中断
-- 我们保留随时更改、暂停或终止部分或全部服务的权利，恕不另行通知。
-- 如因不可抗力、服务器故障或第三方服务中断导致内容暂时无法访问，本站**不承担赔偿责任**。
+*   **Subscription services** are billed either monthly or annually, and you'll always see the exact fees clearly shown on the checkout page. No surprises here!
+*   **All payments** are handled securely through awesome third-party payment platforms (like Stripe and PayPal). Rest assured, This Site never, ever stores your payment info.
+*   Your **subscription will automatically renew**, so you stay connected! Just remember to cancel before your current billing cycle ends if you want to stop.
+*   **Our cool 14-day refund policy** is pretty sweet: If you're a first-time subscriber and you're not totally jazzed about our service within 14 days of your purchase, you can totally grab a full refund. Just shoot us an email at the contact address provided at the end of these terms and let us know what went wrong. Heads up, each user gets only one shot at this refund perk! If it's been more than 14 days or you're not a first-timer, then sorry, folks, **no refunds** will be issued after payment, unless the law *really* makes us.
 
-## 7. 免责声明
-- 本站提供的信息仅供参考，**不构成**任何专业建议（如财务、法律、医疗等）。
-- 对于用户因使用本站内容或服务所产生的任何直接或间接损失，本站**概不负责**。
+## 4. Content Use & Intellectual Property
 
-## 8. 法律适用
-- 本服务条款适用美国加利福尼亚州法律，并按其解释，不考虑法律冲突原则。
-- 因本条款引起的或与本条款相关的任何争议，双方应首先友好协商解决；若协商未果，您同意提交加利福尼亚州圣克拉拉县具有管辖权的法院解决。
+*   **All original content** here is **copyrighted by This Site (hubtoday)**. That means, please don't be a copycat! No unauthorized copying, reprinting, or using it for commercial purposes, okay?
+*   **Users** only get a **non-exclusive, non-transferable right to access** our stuff, strictly for personal learning and reading. It's like a library pass, just for you!
+*   **If you're looking to use our content for commercial purposes or need to quote extensively**, just hit up This Site to get authorization. We're usually pretty cool about it!
 
-## 9. 联系方式
-- 如对本条款有任何疑问，请通过以下方式联系我们：
-- 📧 **邮箱**： [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
+## 5. User Conduct Guidelines
+
+*   **Seriously, don't even think about** uploading, posting, or spreading any content that's illegal, harassing, false, offensive, or infringes on anyone else's rights. Let's keep things positive!
+*   **It's a big no-no** to bulk download, scrape, or try to crack our exclusive membership content using any sneaky technical tricks.
+*   **This Site** has every right to zap inappropriate content and even **ban users** who don't play by the rules. Fair warning!
+
+## 6. Service Changes & Interruptions
+
+*   **We** totally reserve the right to tweak, pause, or even yank some or all of our services whenever we need to, without giving you a heads-up. Just how it goes sometimes!
+*   **This Site** **won't be on the hook for any compensation** if our content goes temporarily offline due to things like acts of God, server hiccups, or third-party service snafus. Tech happens, you know?
+
+## 7. Disclaimer
+
+*   **The info This Site dishes out** is just for kicks and reference only. It **does not, we repeat, does NOT** count as any professional advice (like financial, legal, medical, and so on).
+*   **This Site** **isn't responsible for a thing** when it comes to any direct or indirect losses you might rack up from using our content or services. Just a heads-up!
+
+## 8. Governing Law
+
+*   **These Terms of Service** are totally governed by and interpreted according to the laws of sunny California, USA. We're keeping it simple and not worrying about those tricky conflict of law principles.
+*   **Any disputes** that pop up because of or relating to these terms? We'll always try to sort them out amicably between us first. But if we can't quite get there, you agree to take it to the courts with jurisdiction in Santa Clara County, California. Let's hope it doesn't come to that!
+
+## 9. Get In Touch!
+
+*   **Got any questions** about these terms? Just reach out to us using the info below:
+*   📧 **Email**: [justlikemaki@foxmail.com](mailto:justlikemaki@foxmail.com)
