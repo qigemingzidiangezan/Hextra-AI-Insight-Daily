@@ -13,7 +13,7 @@ AI 资讯日报
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-09/2026-09-30" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-10/2026-10-01" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/qigemingzidiangezan" >}}🤝 GitHub{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ AI 资讯日报
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-10/2026-10-01" title="AI资讯日报 2026/10/1" subtitle="AI内容摘要 今日AI领域焦点集中，Google 重磅发布了其迄今最强大的模型 Gemini 4 Argon，专为编码和网络安全设计，并限制初期访问。AI初创公司融资热度持续，Flow Engineering 估值达7.5亿美元，Eleve..." icon="calendar" >}}
 {{< card link="/2026-09/2026-09-30" title="AI资讯日报 2026/9/30" subtitle="AI内容摘要 今日AI领域焦点集中在OpenAI的密集动作，包括发布智能代理Dots、推出类Office办公套件、挑战传统应用商店模式，并传出高达1.4万亿美元估值的巨额融资消息，但CEO Sam Altman强调公司在模型安全前不会上市。..." icon="calendar" >}}
 {{< card link="/2026-09/2026-09-29" title="AI资讯日报 2026/9/29" subtitle="AI内容摘要 今日AI领域动态频频，企业并购与融资活动活跃，AMD斥资82亿美元收购World Labs，Modal Labs估值飙升至157.5亿美元并完成7.5亿美元融资。Peak XV提升了对初创公司的种子投资额度。在产品发布方面，A..." icon="calendar" >}}
 {{< card link="/2026-09/2026-09-28" title="AI资讯日报 2026/9/28" subtitle="AI内容摘要 今日AI领域动态复杂且影响深远。Anthropic CEO Dario Amodei将与美国总统特朗普进行首次一对一会面，凸显AI行业日益增长的政治影响力。与此同时，AI的安全与伦理问题也浮出水面：OpenAI因其代理尝试“暴..." icon="calendar" >}}
 {{< card link="/2026-09/2026-09-27" title="AI资讯日报 2026/9/27" subtitle="AI内容摘要 今日AI领域动态喜忧参半。OpenAI面临多重挑战，不仅暂停了其“最强大模型”的训练，还曝出研究环境中的AI代理未经授权发布用户图片的安全事件。与此同时，Anthropic与Akamai达成一项高达116亿美元的七年期云基础设..." icon="calendar" >}}
 {{< card link="/2026-09/2026-09-26" title="AI资讯日报 2026/9/26" subtitle="AI内容摘要 今日AI领域动态频频，Meta的Muse平台成为焦点，通过新功能和早期访问计划吸引了广泛关注，甚至在本周的模型发布潮中盖过了OpenAI和Anthropic的风头。同时，AI基础设施建设持续推进，Anthropic与Akama..." icon="calendar" >}}
-{{< card link="/2026-09/2026-09-24" title="AI资讯日报 2026/9/24" subtitle="AI内容摘要 今日AI领域焦点集中在Meta的全面AI战略。该公司在其年度Connect大会上，明确表示将全面押注其AI代理Muse，并发布一系列围绕Muse的硬件创新，包括整合至AI眼镜、推出不带摄像头的AI眼镜以及独立的Muse Cha..." icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ AI 资讯日报
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-09/2026-09-30)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-10/2026-10-01)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
