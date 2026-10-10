@@ -4,25 +4,24 @@ type: page
 sidebar:
   exclude: true
 ---
+# Contact Me
 
-# 联系我
+I'm always thrilled to hear from you! 🚀 Whether you have questions, collaboration ideas, or need support, please don't hesitate to reach out using the methods below.
 
-我非常乐意听取您的意见和建议。如果您有任何问题、合作意向或需要支持，请通过以下方式与我联系。
-
-我承诺会尽快回复您的邮件。
+I promise to reply to your emails as quickly as possible. 📬
 
 ---
 
-## **联系方式**
+## **Get in Touch**
 
-*   **电子邮件 (Email):**
+*   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
 
-*   **个人微信 (Wechat):**
+*   **Personal WeChat:**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="个人微信" subtitle="欢迎加我交流" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Feel free to connect with me" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
-*   **工作时间 (Office Hours):**
-    *   周一至周五, 上午 9:00 - 下午 6:00 (GMT+8)
-    *   (周末及法定节假日休息)
+*   **Office Hours:** ⏰
+    *   My office hours are Monday to Friday, 9:00 AM - 6:00 PM (GMT+8).
+    *   I'm off on weekends and public holidays.

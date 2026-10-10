@@ -4,24 +4,22 @@ type: about
 sidebar:
   exclude: true
 ---
+#### Hexi 2077 / justlovemaki
 
-#### 👋 何夕2077 / justlovemaki
+> Ten years of code, fingers chilling, a bubbling energy within, waiting to burst. Then, the intelligent revolution roared to life, and I swore to charge into the digital sky!
 
-> 十载代码指尖凉，胸中块垒郁未扬。
-> 忽闻智能风雷动，誓向云天搏一场。
+#### 💡 My Code Philosophy
 
-#### 🚀 我的代码哲学
+> Technology serves the people.
 
-> 技术为人民服务
+#### 🌟 Highlight Reels
 
-#### ✨ 代表作
+*   **[Open Source Contribution / AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   AIClient-2-API is a powerful API proxy service that wraps client-only large model capabilities like Gemini CLI, Antigravity, Qwen Code, and Kiro into a local OpenAI-compatible interface. It also supports account pool management, intelligent polling, automatic failover, and system prompt management.
+*   **[Open Source Contribution / OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   OpenClaw-Docker-CN-IM is an integrated Docker image for OpenClaw's Chinese IM plugins. It comes pre-installed and configured with plugins for mainstream Chinese IM platforms such as Feishu, DingTalk, QQ Bot, and WeChat Work, allowing for quick deployment of a multi-platform AI bot gateway.
+*   Want to dive deeper into my projects? Head over to my [GitHub](https://github.com/justlovemaki).
 
-*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
-*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
-*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
+#### 🚀 What I'm Diving Into
 
-#### 🌱 当前探索
-
-对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
+LLM applications and website SEO? Yeah, I'm super into those! I'm actively diving deep into learning and getting hands-on with them.
