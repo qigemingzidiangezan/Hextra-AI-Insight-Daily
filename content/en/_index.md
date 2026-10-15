@@ -19,7 +19,7 @@ cascade:
 ---
 
 {{< callout type="important" >}}
-  Our philosophy is genuinely super simple! We're totally focused on dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise!
+  Our philosophy is genuinely super simple! We're totally focused on dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 🌟
 {{< /callout >}}
 
 ## Our Core Values
@@ -52,7 +52,7 @@ AI Weekly is your ultimate starting point if you're just diving into AI! This mu
 AI Daily Archive is your daily dose to stay absolutely on top of everything AI! Honestly, just 5 minutes here each day will keep you perfectly aligned with the global AI rhythm. So, keep your edge and never miss a beat! Stay informed! 📰
 
 <h3>3. Explore Deeper Practice</h3>
-The Blog is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. So go ahead, unleash your inner tech guru! Let's get productive!
+The Blog is your go-to for deep dives and hands-on practice, especially if you're keen to really geek out! This section is loaded with structured guides on AI tools, workflows, and seriously boosting your productivity. So go ahead, unleash your inner tech guru! Let's get productive! 📚
 
 {{% /steps %}}
 
