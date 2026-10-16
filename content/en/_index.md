@@ -19,14 +19,14 @@ cascade:
 ---
 
 {{< callout type="important" >}}
-  Our philosophy is genuinely super simple! We're totally focused on dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! 🌟
+  Our philosophy is genuinely super simple! We're totally focused on dishing out the most accurate, timely, and truly useful info – no fluff, just the good stuff. Pinky promise! ✨
 {{< /callout >}}
 
 ## Our Core Values
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! This core value helps us cut through the daily digital din, pinpointing what *truly* matters from a flood of updates. Seriously, it saves you precious hours – no joke! We're definitely not here to just add to the noise. Think of it as your daily news filter! 🎯" >}}
-  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight is what we deliver, pure and simple! We don't just translate info; instead, we serve up razor-sharp analysis, giving you the actual lowdown on all those cutting-edge AI developments. Seriously, if you want the real scoop, this is your ultimate go-to! Get ready for some clarity! ✨" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise is totally our jam! This core value helps us cut through the daily digital din, pinpointing what *truly* matters from a flood of updates. Seriously, it saves you precious hours – no joke! We're definitely not here to just add to the noise. Think of it as your daily news filter! 🔍" >}}
+  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight is what we deliver, pure and simple! We don't just translate info; instead, we serve up razor-sharp analysis, giving you the actual lowdown on all those cutting-edge AI developments. Seriously, if you want the real scoop, this is your ultimate go-to! Get ready for some clarity! 💡" >}}
   {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is absolutely key for us! We track how AI tools are *really* impacting the real world, helping you snag genuine opportunities in the productivity revolution. So, it's totally time to level up your game, big time! Let's get building! 🚀" >}}
 {{< /cards >}}
 
