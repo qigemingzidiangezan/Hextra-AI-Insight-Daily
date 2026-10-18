@@ -4,11 +4,11 @@ type: page
 sidebar:
   exclude: true
 ---
-# Let's Connect! 👋
+# Contact Me
 
-I'd love to hear your thoughts and suggestions. Whether you've got questions, collaboration ideas, or need some support, feel free to reach out using the methods below!
+Contact me! I'm super excited to hear your thoughts and suggestions. If you've got any questions, collaboration ideas, or need support, hit me up using the methods below.
 
-I promise to get back to your emails ASAP.
+Email replies are a priority for me. I promise to get back to you ASAP.
 
 ---
 
@@ -23,5 +23,5 @@ I promise to get back to your emails ASAP.
         {{< /cards >}}
 
 *   **Office Hours:**
-    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
     *   (Closed on weekends and public holidays)
