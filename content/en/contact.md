@@ -4,15 +4,14 @@ type: page
 sidebar:
   exclude: true
 ---
-# Get In Touch!
+# Get in Touch!
 
-I'm genuinely excited to hear your thoughts and suggestions! 👋 Should you have any questions, collaboration opportunities, or need assistance, please get in touch using the methods below.
-
-I promise to reply to your emails as quickly as possible! ⏱️
+I'm always stoked to hear from you and super open to your ideas and feedback! If you've got any questions, cool collaboration opportunities, or just need a hand, feel free to connect with me using the info below. 👇
+I promise to get back to your emails ASAP! 🚀
 
 ---
 
-## **How to Reach Me**
+## **Contact Info**
 
 *   **Email:**
     *   [justlikemaki@qq.com](mailto:justlikemaki@qq.com)
@@ -23,5 +22,5 @@ I promise to reply to your emails as quickly as possible! ⏱️
         {{< /cards >}}
 
 *   **Office Hours:**
-    *   Monday to Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Taking a break on weekends and public holidays 😴)
+    *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
+    *   (Closed on weekends and public holidays)
