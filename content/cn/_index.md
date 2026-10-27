@@ -13,7 +13,7 @@ AI 资讯日报
 {{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/2026-10/2026-10-26" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/2026-10/2026-10-27" >}}🚀 阅读今日日报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/blog/weekly" >}}📊 浏览 AI 周报{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/qigemingzidiangezan" >}}🤝 GitHub{{< /hextra/hero-badge >}}
 </div>
@@ -36,12 +36,12 @@ AI 资讯日报
 
 {{< cards cols="3" >}}
 <!-- LATEST_6_CARDS_START -->
+{{< card link="/2026-10/2026-10-27" title="AI资讯日报 2026/10/27" subtitle="AI内容摘要 今日AI领域焦点集中在Anthropic的首次公开募股（IPO）及其宏伟的AI愿景，该公司在S1文件中阐述了通过AI“彻底改变人类所有领域”的计划，同时也引发了对其AI数据中心高能耗的关注。与此同时，OpenAI宣布了三项重大..." icon="calendar" >}}
 {{< card link="/2026-10/2026-10-26" title="AI资讯日报 2026/10/26" subtitle="AI内容摘要 今日AI领域动态聚焦监管、社区与技术发展。宾夕法尼亚州将强制AI生成广告进行标注，标志着AI内容规范化的进一步推进。同时，知名开源社区r/opensource因禁止AI相关内容引发社区争议。在技术前沿，OpenAI宣布其前沿模..." icon="calendar" >}}
 {{< card link="/2026-10/2026-10-25" title="AI资讯日报 2026/10/25" subtitle="AI内容摘要 今日AI领域动态聚焦于监管、数据隐私与模型开发策略。美国宾夕法尼亚州通过立法，要求AI生成广告必须明确标注，凸显了AI内容透明化的监管趋势。在数据隐私方面，Meta因出版商对AI抓取内容的强烈反对而推迟新业务条款，而Googl..." icon="calendar" >}}
 {{< card link="/2026-10/2026-10-24" title="AI资讯日报 2026/10/24" subtitle="AI内容摘要 今日AI领域动态聚焦安全、数据伦理与产品创新。OpenAI为提升模型安全性，已转向在无网络环境下训练其最前沿AI模型。Meta则因AI数据抓取争议，推迟了新商业条款的实施，法律专家对此持续关注。在产品方面，Jack Dorse..." icon="calendar" >}}
 {{< card link="/2026-10/2026-10-23" title="AI资讯日报 2026/10/23" subtitle="AI内容摘要 今日AI领域动态聚焦于生成式AI的创新与伦理边界。Canva发布了首个具备设计规划能力的AI图像生成模型，直接挑战市场现有巨头。微软则宣称其AI诊断工具在医疗诊断上已超越人类医生，展现AI在医疗领域的巨大潜力。同时，Meta在..." icon="calendar" >}}
 {{< card link="/2026-10/2026-10-22" title="AI资讯日报 2026/10/22" subtitle="AI内容摘要 今日AI领域动态聚焦于产品创新与行业发展。Anthropic推出新一代AI代理Claude Duet，加入AI代理竞争行列，而Walmart也宣布将引入AI代理进行购物。Google Gemini进一步拓展其车载应用，覆盖Ap..." icon="calendar" >}}
-{{< card link="/2026-10/2026-10-21" title="AI资讯日报 2026/10/21" subtitle="AI内容摘要 今日AI领域动态聚焦于产品创新与行业挑战。Sam Altman的法律诉讼被驳回。Google将Gemini AI深度整合至车载系统，Adobe Lightroom移动版上线AI“睁眼”功能。同时，Meta暂停了AI助手Muse..." icon="calendar" >}}
 <!-- LATEST_6_CARDS_END -->
 {{< /cards >}}
 
@@ -53,7 +53,7 @@ AI 资讯日报
 初次访问？请先阅读 [AI 周报](/blog/weekly/)。它可以帮你快速梳理近期行业最重要的变化，避免陷入信息碎片的海洋。
 
 ### 2. 保持每日同步
-如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-10/2026-10-26)。每天仅需 5 分钟，即可同步全球 AI 节奏。
+如果您想紧跟技术最前沿，直接进入 [AI 资讯日报归档](/2026-10/2026-10-27)。每天仅需 5 分钟，即可同步全球 AI 节奏。
 
 ### 3. 探索深度实践
 了解本站初衷，并在 [博客](/blog/) 中获取系统的 AI 工具应用与效率提升指南。
