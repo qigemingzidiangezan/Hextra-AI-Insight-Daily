@@ -19,7 +19,7 @@ cascade:
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? Seriously simple! We're all about dishing out accurate, timely, and genuinely useful info – no fluff, just the good stuff. Pinky promise! ✨
+  Our philosophy? It's seriously simple! We're all about dishing out accurate, timely, and genuinely useful info – no fluff, just the good stuff. Pinky promise! ✨
 {{< /callout >}}
 
 ## Our Core Values ⭐
