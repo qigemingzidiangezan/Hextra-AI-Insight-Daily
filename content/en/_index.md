@@ -19,15 +19,15 @@ cascade:
 ---
 
 {{< callout type="important" >}}
-  Our philosophy? It's seriously simple! We're all about dishing out accurate, timely, and genuinely useful info – no fluff, just the good stuff. Pinky promise! 👍
+  Our philosophy is seriously simple! We're all about dishing out accurate, timely, and genuinely useful info – no fluff, just the good stuff. Pinky promise! 💯
 {{< /callout >}}
 
 ## Our Core Values 🌟
 
 {{< cards cols="3" >}}
-  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise? That's our whole vibe! This core value helps us slice through the daily digital chaos, zeroing in on what *actually* matters from a tsunami of updates. Seriously, it'll save you precious hours – no cap! Consider us your personal news radar! 📡" >}}
-  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight? We're serving it up, plain and simple! We're not just translating info; we're dishing out razor-sharp analysis, giving you the *real* lowdown on all the latest AI breakthroughs. Seriously, if you're after the genuine scoop, this is your ultimate pit stop! Get ready for some serious 'Aha!' moments! 🧠" >}}
-  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is our jam, seriously! We're tracking how AI tools are *actually* shaking up the real world, helping you snag legit opportunities in the productivity revolution. So, it's time to seriously level up your game, ASAP! Let's get building! 🏗️" >}}
+  {{< card title="Signal Over Noise" icon="newspaper" subtitle="Signal Over Noise? That's totally our vibe! This core value helps us slice through the daily digital chaos, zeroing in on what *actually* matters from a tsunami of updates. Seriously, it'll save you precious hours – no cap! Consider us your personal news radar! 🎯" >}}
+  {{< card title="Contextual Insight" icon="translate" subtitle="Contextual Insight? We're serving it up, plain and simple! We're not just translating info; we're dishing out razor-sharp analysis, giving you the *real* lowdown on all the latest AI breakthroughs. Seriously, if you're after the genuine scoop, this is your ultimate pit stop! Get ready for some serious 'Aha!' moments! 💡" >}}
+  {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is seriously our jam! We're tracking how AI tools are *actually* shaking up the real world, helping you snag legit opportunities in the productivity revolution. So, it's time to seriously level up your game, ASAP! Let's get building! 🛠️" >}}
 {{< /cards >}}
 
 <h2>Fresh Off the Press! 🗞️</h2>
