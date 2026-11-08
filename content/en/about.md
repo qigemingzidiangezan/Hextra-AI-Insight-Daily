@@ -4,24 +4,25 @@ type: about
 sidebar:
   exclude: true
 ---
+#### He Xi 2077 / justlovemaki 👋
 
-#### 👋 何夕2077 / justlovemaki
+Ten years my fingers danced on keys, a chill in the air,
+My restless heart held dreams, a burden hard to bear.
+Then came AI's rumble, a storm about to break,
+Now, I'm charging forth, my stand I'm gonna make!
 
-> 十载代码指尖凉，胸中块垒郁未扬。
-> 忽闻智能风雷动，誓向云天搏一场。
+#### My Code Philosophy 🚀
 
-#### 🚀 我的代码哲学
+Technology serves the people.
 
-> 技术为人民服务
+#### My Key Projects ✨
 
-#### ✨ 代表作
+*   **[Open Source Contribution/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
+    *   This powerful API proxy service hooks you up by wrapping client-only large language model (LLM) capabilities (think Gemini CLI, Antigravity, Qwen Code, Kiro, and more!) into a local OpenAI-compatible interface. Plus, it comes packed with goodies like account pool management, smart load balancing, automatic failover, and system prompt wizardry.
+*   **[Open Source Contribution/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
+    *   This integrated OpenClaw Docker image for Chinese IM plugins is your go-to for setting up multi-platform AI robot gateways in a flash! It comes pre-loaded and configured with plugins for all the big players: Feishu, DingTalk, QQ Bot, WeChat Work, and more.
+*   For more project details, peep my [GitHub](https://github.com/justlovemaki)!
 
-*   **[开源贡献/AIClient-2-API](https://github.com/justlovemaki/AIClient-2-API)**:
-    *   一个强大的 API 代理服务，可将 Gemini CLI、Antigravity、Qwen Code、Kiro 等仅限客户端使用的大模型能力，封装为本地 OpenAI 兼容接口，并支持账号池管理、智能轮询、自动故障转移与系统提示词管理。
-*   **[开源贡献/OpenClaw-Docker-CN-IM](https://github.com/justlovemaki/OpenClaw-Docker-CN-IM)**:
-    *   OpenClaw 中国 IM 插件整合版 Docker 镜像，预装并配置飞书、钉钉、QQ 机器人、企业微信等主流中国 IM 平台插件，可快速部署支持多平台的 AI 机器人网关。
-*   更多项目细节请见我的 [GitHub](https://github.com/justlovemaki)。
+#### What I'm Digging Into Now 🌱
 
-#### 🌱 当前探索
-
-对 LLM应用、网站SEO 抱有浓厚兴趣，并正在积极投入学习与实践。
+Right now, I'm totally hooked on LLM apps and website SEO. I'm constantly learning new tricks and getting my hands dirty with practical projects!
