@@ -11,9 +11,9 @@ cascade:
 {{< hextra/hero-headline >}}Hexi 2077's AI News Hub!{{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the freshest updates!{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly!{{< /hextra/hero-badge >}}
-  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got business or partnership ideas? Let's chat!{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the freshest updates! 🔥{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! 📚{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got business or partnership ideas? Let's chat! 🤝{{< /hextra/hero-badge >}}
 </div>
 
 ---
