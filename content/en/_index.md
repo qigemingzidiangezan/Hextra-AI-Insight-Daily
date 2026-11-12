@@ -11,7 +11,7 @@ cascade:
 {{< hextra/hero-headline >}}Hexi 2077's AI News Hub!{{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the freshest updates! 🔥{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the freshest updates! ✨{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! 📚{{< /hextra/hero-badge >}}
   {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got business or partnership ideas? Let's chat! 🤝{{< /hextra/hero-badge >}}
 </div>
@@ -45,13 +45,13 @@ cascade:
 
 {{% steps %}}
 
-<h3>1. Build a Big-Picture View! 🚀</h3>
+<h3>1. Build a Big-Picture View! 🔭</h3>
 AI Weekly? It's your ultimate starting point if you're just dipping your toes into the AI waters! This must-have resource helps you quickly grok major industry shifts, so you won't get lost in a sea of fragmented info. Seriously, prep yourself to supercharge your learning, stat! Let's get you up to speed!
 
 <h3>2. Stay in Daily Sync! 🔄</h3>
 The AI Daily Archive is your daily dose to stay absolutely dialed in on everything AI! Honestly, just a quick 5 minutes here each day will keep you perfectly grooving with the global AI rhythm. So, keep your edge sharp and never miss a beat! Stay informed!
 
-<h3>3. Explore Deeper Practice! 💡</h3>
+<h3>3. Explore Deeper Practice! 🧠</h3>
 The Blog? It's your ultimate playground for deep dives and hands-on action, especially if you're itching to truly geek out! This section is packed with structured guides on AI tools, workflows, and how to seriously turbocharge your productivity. So go on, unleash that inner tech wizard! Let's get productive!
 
 {{% /steps %}}
