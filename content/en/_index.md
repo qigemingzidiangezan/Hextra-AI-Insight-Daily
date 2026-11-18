@@ -8,18 +8,18 @@ description: Your daily source for curated AI news & latest artificial intellige
 cascade:
   type: docs
 ---
-{{< hextra/hero-headline >}}Hexi 2077's AI News Hub!{{< /hextra/hero-headline >}} 🚀
+{{< hextra/hero-headline >}}Hexi 2077's AI News Hub! 🚀{{< /hextra/hero-headline >}}
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
-  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the freshest updates!{{< /hextra/hero-badge >}} ✨
-  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly!{{< /hextra/hero-badge >}} 📚
-  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got business or partnership ideas? Let's chat!{{< /hextra/hero-badge >}} 🤝
+  {{< hextra/hero-badge link="/en/2026-03/2026-03-07" >}}Catch the freshest updates! ✨{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="/en/blog/weekly" >}}Dive into the AI Weekly! 📚{{< /hextra/hero-badge >}}
+  {{< hextra/hero-badge link="https://github.com/justlovemaki" >}}Got business or partnership ideas? Let's chat! 🤝{{< /hextra/hero-badge >}}
 </div>
 
 ---
 
 {{< callout type="important" >}}
-  Our philosophy is seriously simple! We're all about dishing out accurate, timely, and genuinely useful info – no fluff, just the good stuff. Pinky promise! 😉
+  Our philosophy is seriously simple! We're all about dishing out accurate, timely, and genuinely useful info – no fluff, just the good stuff. Pinky promise!
 {{< /callout >}}
 
 ## Our Core Values
@@ -30,7 +30,7 @@ cascade:
   {{< card title="Practical Focus" icon="sparkles" subtitle="Practical Focus is seriously our jam! It tracks how AI tools are *actually* shaking up the real world, helping you snag legit opportunities in the productivity revolution. So, it's time to seriously level up your game, ASAP! Let's get building! 🛠️" >}}
 {{< /cards >}}
 
-<h2>Fresh Off the Press!</h2> 📰
+<h2>Fresh Off the Press! 📰</h2>
 
 {{< cards cols="3" >}}
 {{< card link="/en/2026-08/2026-08-09" title="AI News Daily 2026/08/09" subtitle="''" icon="calendar" >}}
@@ -58,7 +58,7 @@ The Blog? It's your ultimate playground for deep dives and hands-on action, espe
 
 ---
 
-<h2>Who's Hanging Out Here?</h2> 👥
+<h2>Who's Hanging Out Here? 👥</h2>
 
 <div style="margin-top: 2rem; margin-bottom: 4rem; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
   {{< hextra/hero-badge >}}AI Professionals{{< /hextra/hero-badge >}}
@@ -68,7 +68,7 @@ The Blog? It's your ultimate playground for deep dives and hands-on action, espe
   {{< hextra/hero-badge >}}Forward-Looking Readers{{< /hextra/hero-badge >}}
 </div>
 
-<h2>Let's Connect!</h2> 🌐
+<h2>Let's Connect! 🌐</h2>
 
 {{< cards cols="2" >}}
   {{< card link="https://github.com/justlovemaki" title="Business Contact" icon="mail" subtitle="Business Contact: If you've got a brilliant partnership idea, want to swap resources, or just hit us up with feedback, seriously, don't be shy—reach out! We'd love to hear from you! Drop us a line! ✉️" >}}
