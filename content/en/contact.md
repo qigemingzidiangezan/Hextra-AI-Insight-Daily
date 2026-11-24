@@ -6,9 +6,9 @@ sidebar:
 ---
 # Let's Connect!
 
-Hey there! Got questions, collaboration ideas, or need some support? Don't hesitate to reach out! I'm super excited to hear your thoughts and suggestions.
+Super keen to hear from you! If you've got questions, brilliant collaboration ideas, or need some support, hit me up using the deets below.
 
-And don't worry, I promise to get back to your emails ASAP. 🚀
+Promise I'll get back to your emails ASAP! 📧
 
 ---
 
@@ -19,9 +19,9 @@ And don't worry, I promise to get back to your emails ASAP. 🚀
 
 *   **WeChat:**
     *   {{< cards >}}
-        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Feel free to connect with me" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
+        {{< card link="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png" title="Personal WeChat" subtitle="Let's Chat!" image="https://raw.githubusercontent.com/justlovemaki/CloudFlare-AI-Insight-Daily/refs/heads/main/docs/images/wechat.png">}}
         {{< /cards >}}
 
 *   **Office Hours:**
     *   Monday - Friday, 9:00 AM - 6:00 PM (GMT+8)
-    *   (Closed on weekends and public holidays)
+    *   (Closed on weekends & public holidays)
